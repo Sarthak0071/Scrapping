@@ -1,6 +1,7 @@
 import asyncio
 import re
 import json
+import os
 from urllib.parse import urljoin, urlparse
 from dataclasses import dataclass
 from typing import List, Dict
@@ -221,9 +222,23 @@ async def main():
                 print(f"   Sections: {', '.join(d['headings'][:4])}")
             print()
         
+        # Load existing results if file exists
+        existing_results = []
+        if os.path.exists('results.json'):
+            with open('results.json', 'r', encoding='utf-8') as f:
+                try:
+                    existing_results = json.load(f)
+                except json.JSONDecodeError:
+                    existing_results = []
+
+        # Append new results
+        combined_results = existing_results + results
+
+        # Save combined data back
         with open('results.json', 'w', encoding='utf-8') as f:
-            json.dump(results, f, indent=2, ensure_ascii=False)
-        print("Saved to results.json")
+            json.dump(combined_results, f, indent=2, ensure_ascii=False)
+
+        print("Results appended and saved to results.json")
     except Exception as e:
         print(f"Error: {e}")
 
