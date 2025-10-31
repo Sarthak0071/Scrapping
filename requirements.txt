@@ -1,0 +1,6 @@
+playwright
+asyncio
+groq
+dataclasses
+typing-extensions
+requests
