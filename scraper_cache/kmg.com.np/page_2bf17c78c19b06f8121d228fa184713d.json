@@ -1,0 +1,359 @@
+{
+  "url": "https://kmg.com.np/",
+  "scraped_at": "2025-11-01T17:02:04.644027",
+  "html": "<!DOCTYPE html><html lang=\"en\"><head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <meta http-equiv=\"ScreenOrientation\" content=\"autoRotate:disabled\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"description\" content=\"The Kantipur Media Group (KMG) is Nepal's leading media conglomerate. Kantipur Publication provides news, features, views and lifestyle content through five standalone print outlets: two national dailies (the Kantipur daily and The Kathmandu Post), two weeklies (Saptahik and Nepal) and one monthly (Nari). Radio Kantipur (Kantipur FM), Kantipur TV and Kantipur Foundation are the sister companies of KMG.\">\n    <meta name=\"author\" content=\"\">\n\n    <!-- OG: 2.7.4 -->\n    <meta property=\"og:description\" content=\"The Kantipur Media Group (KMG) is Nepal’s leading media conglomerate. Kantipur Publication provides news, features, views and lifestyle content through five standalone print outlets: two national dailies (the Kantipur daily and The Kathmandu Post), two weeklies (Saptahik and Nepal) and one monthly (Nari). Radio Kantipur (Kantipur FM), Kantipur TV and Kantipur Foundation are the sister companies of KMG.\">\n    <meta property=\"og:type\" content=\"article\">\n    <meta property=\"og:locale\" content=\"en_us\">\n    <meta property=\"og:site_name\" content=\"Kantipur Media Group\">\n    <meta property=\"og:title\" content=\"Kantipur Media Group\">\n    <meta property=\"og:url\" content=\"https://kmg.com.np/\">\n    <meta property=\"og:image\" content=\"/images/kmg-ogg.jpg\">\n    <meta property=\"twitter:card\" content=\"summary\">\n    <meta property=\"twitter:title\" content=\"Kantipur Media Group\">\n    <meta property=\"twitter:description\" content=\"The Kantipur Media Group (KMG) is Nepal's leading media conglomerate. Kantipur Publication provides news, features, views and lifestyle content through five standalone print outlets: two national dailies (the Kantipur daily and The Kathmandu Post), two weeklies (Saptahik and Nepal) and one monthly (Nari). Radio Kantipur (Kantipur FM), Kantipur TV and Kantipur Foundation are the sister companies of KMG.\">\n    <meta property=\"twitter:url\" content=\"https://kmg.com.np/\"><!-- /OG -->\n\n    <title> Kantipur Media Group </title>\n    <link rel=\"shortcut icon\" href=\"/images/favicon.ico\">\n    \n<script type=\"text/javascript\" async=\"\" src=\"https://www.googletagmanager.com/gtag/js?id=G-Y8NSBBN7G1&amp;cx=c&amp;_slc=1\"></script><script async=\"\" src=\"//www.google-analytics.com/analytics.js\"></script><script type=\"text/javascript\" src=\"https://kmg.com.np/js/merged1.5.js\"></script>    \n\n\n    <link rel=\"stylesheet\" href=\"https://kmg.com.np/css/merged1.5.css\">\n    \n    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->\n    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->\n    <!--[if lt IE 9]>\n        <script src=\"../js/html5shiv.min.js\"></script>\n        <script src=\"../js/respond.min.js\"></script>\n        <![endif]-->\n\n</head>\n\n<body id=\"page-top\" class=\"mobile\">\n\n    \n    <div class=\"wrapper\">\n        <header class=\"main-header fixNav\" id=\"kmg-mainnav\">\n            <div class=\"container\">\n                <div class=\"row\">\n                    <div class=\"col-sm-12\">\n                        <nav class=\"navbar navbar-expand-md navbar-light justify-content-between align-items-center\">\n                            <a class=\"navbar-brand logo px-0\" href=\"/\">\n                                <!-- Logo White -->\n                                <img src=\"../svgs/logo.svg\" alt=\"\">\n                            </a>\n                            <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarText\" aria-controls=\"navbarText\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n                                <span class=\"navbar-toggler-icon\"></span>\n                            </button>\n                            <div class=\"collapse navbar-collapse\" id=\"navbarText\">\n                                <ul class=\"navbar-nav ml-auto\" id=\"nav\">\n                                    <li class=\"menu-item menu-item-type-custom menu-item-object-custom\">\n                                        <a href=\"/about\">About.</a>\n                                    </li>\n                                    <li class=\"dropdown menu-item menu-item-type-custom menu-item-object-custom\">\n                                        <a class=\"dropdown-toggle \" href=\"#\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">Companies.</a>\n                                        <div class=\"dropdown-menu\">\n                                            <a href=\"/kantipur-publication\" class=\"kantipur-publication dropdown-item\"><i>Kantipur\n                                                    Publications</i></a>\n                                            <a href=\"/radio-kantipur\" class=\"dropdown-item\"><i>Radio\n                                                    Kantipur</i></a>\n                                            <a href=\"/kantipur-television\" class=\"dropdown-item\"><i>Kantipur\n                                                    Television</i></a>\n                                            <a href=\"/kantipur-foundation\" class=\"dropdown-item\"><i>Kantipur\n                                                    Foundation</i></a>\n                                        </div>\n                                    </li>\n                                    <li class=\"menu-item menu-item-type-custom menu-item-object-custom\">\n                                        <a href=\"/media\">Media.</a>\n                                    </li>\n                                    <li class=\"menu-item menu-item-type-custom menu-item-object-custom\">\n                                        <a href=\"/advertise\">Advertisement.</a>\n                                    </li>\n                                    <li class=\"d-md-none\">\n                                        <a href=\"https://subscription.kmg.com.np/\" target=\"_blank\">\n                                            Subscribe\n                                        </a>\n                                    </li>\n                                </ul>\n                            </div>\n                            <div class=\"d-none d-md-block\">\n                                <a href=\"https://subscription.kmg.com.np/\" class=\"blue-link align-items-center d-flex px-0\" target=\"_blank\">\n                                    <i>Subscribe</i>\n                                    <svg width=\"12\" height=\"8\" viewBox=\"0 0 24 16\" xmlns=\"http://www.w3.org/2000/svg\">\n                                        <path transform=\"translate(0 -5)\" d=\"M24,13a.745.745,0,0,0-.22-.519L16.356,5.215a.761.761,0,0,0-1.061,0,.722.722,0,0,0,0,1.038l6.145,6.013H.75a.734.734,0,1,0,0,1.468H21.44L15.3,19.748a.723.723,0,0,0,0,1.038.762.762,0,0,0,1.061,0l7.424-7.266A.74.74,0,0,0,24,13Z\"></path>\n                                    </svg>\n                                </a>\n                            </div>\n                        </nav>\n                    </div>\n                </div>\n            </div>\n        </header>\n<!-- Conent Section  -->\n\n<div class=\"main-content\">\n    <!-- Banner Section -->\n    <section class=\"banner-section\" style=\"height: 628.469px; margin-top: 91.5312px;\">\n        <div class=\"container px-lg-5 h-100\">\n            <div class=\"row h-100\" style=\"position:relative;\">\n                <div class=\"btm-rt-positioned text-center text-xl-right\">\n                    <img src=\"svgs/kmg-icon-big.svg\" alt=\"\" class=\"img-fluid kmg-icon\">\n                </div>\n                <div class=\"col-12 mt-xl-5\">\n                    <h1 class=\"kmg-banner-slogan text-sm-center text-lg-left\">\n                        ensuring people's right to <br>\n                        right information</h1>\n                </div>\n\n            </div>\n        </div>\n    </section>\n\n\n    <!-- About Section -->\n\n    <section class=\"kmg-insiders section-padding text-center text-md-left\">\n        <div class=\"container insider-content d-flex\">\n            <h2 class=\"main-heading color-white mb-5\">About KMG</h2>\n            <div class=\"row mt-5 pt-lg-5\">\n                <div class=\"col-lg-7 col-md-9\">\n                    <h4 class=\"color-white mb-5\">Since 1993, KMG has been the leading exemplar of Nepal’s\n                        Fourth Estate.</h4>\n                    <div class=\"inside-company-info\">\n                        <p> The Kantipur Media Group (KMG) is Nepal’s leading media conglomerate. For almost a\n                            quarter of a century now, it has remained the indispensable media house that Nepalis\n                            have come to implicitly trust. It disseminates its content to millions of Nepali\n                            households every day through its print, radio, television and web platforms.\n                            Underpinning its enterprise is KMG’s vision of ensuring the people’s right to right\n                            information.\n\n                        </p>\n\n\n                        <a href=\"/about\" class=\"btm-link d-inline-flex justify-content-between align-items-center\">Discover KMG\n                            <svg width=\"12\" height=\"8\" viewBox=\"0 0 24 16\" xmlns=\"http://www.w3.org/2000/svg\" class=\"pl-1\" fill=\"#fff\">\n                                <path transform=\"translate(0 -5)\" d=\"M24,13a.745.745,0,0,0-.22-.519L16.356,5.215a.761.761,0,0,0-1.061,0,.722.722,0,0,0,0,1.038l6.145,6.013H.75a.734.734,0,1,0,0,1.468H21.44L15.3,19.748a.723.723,0,0,0,0,1.038.762.762,0,0,0,1.061,0l7.424-7.266A.74.74,0,0,0,24,13Z\"></path>\n                            </svg></a>\n                    </div>\n                </div>\n                <div class=\"col-lg-5 col-md-3 text-center text-md-left\">\n\n                    <a data-target=\"#modalYT\" data-toggle=\"modal\" href=\"#\" class=\"px-4 py-5 d-inline-block\">\n                        <img src=\"svgs/play-icon.svg\" alt=\"\">\n                    </a>\n                </div>\n            </div>\n        </div>\n    </section>\n\n    <!-- Companies Section -->\n    <section class=\"companies-section bg-dark-gray section-padding text-center text-sm-left\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-sm-12\">\n                    <div class=\"mb-5\">\n                        <h2 class=\"main-heading color-white\">Our Companies</h2>\n\n                    </div>\n                    <div class=\"companies-carousel slick-initialized slick-slider\"><button class=\"slick-prev slick-arrow\" aria-label=\"Previous\" type=\"button\" style=\"\">Previous</button>\n                        <div class=\"slick-list draggable\"><div class=\"slick-track\" style=\"opacity: 1; width: 5700px; transform: translate3d(-1710px, 0px, 0px);\"><div class=\"company-block slick-slide slick-cloned\" data-slick-index=\"-2\" aria-hidden=\"true\" tabindex=\"-1\" style=\"width: 540px;\">\n                            <div class=\"company-img\">\n                                <a class=\"main-img\" href=\"/kantipur-television\" tabindex=\"-1\">\n                                    <img src=\"images/kantipur-tv.jpg\" alt=\"\" class=\"image\">\n\n                                    <figcaption class=\"company-name-link-wrap\">\n\n                                        <p class=\"company-icon-img\"><img src=\"svgs/ktv.svg\" alt=\"\"></p>\n                                        <p class=\"founding-yr\">2003</p>\n                                        <h3 class=\"company-name color-white\">Kantipur Television Network</h3>\n                                    </figcaption>\n                                </a>\n                            </div>\n\n                        </div><div class=\"company-block slick-slide slick-cloned\" data-slick-index=\"-1\" aria-hidden=\"true\" tabindex=\"-1\" style=\"width: 540px;\">\n                            <div class=\"company-img\">\n                                <a class=\"main-img\" href=\"/kantipur-foundation\" tabindex=\"-1\">\n                                    <img src=\"images/kantipur-foundation.jpg\" alt=\"\" class=\"image\">\n                                    <figcaption class=\"company-name-link-wrap\">\n\n                                        <p class=\" company-icon-img\"><img src=\"svgs/kfoundation-w.svg\" alt=\"\"></p>\n                                        <p class=\"founding-yr\">2014</p>\n                                        <h3 class=\"company-name color-white\">Kantipur Foundation</h3>\n\n                                    </figcaption>\n                                </a>\n\n\n                            </div>\n\n                        </div><div class=\"company-block slick-slide\" data-slick-index=\"0\" aria-hidden=\"true\" tabindex=\"-1\" style=\"width: 540px;\">\n                            <div class=\"company-img\">\n                                <a class=\"main-img\" href=\"/kantipur-publication\" tabindex=\"-1\"><img src=\"images/publication.jpg\" alt=\"\" class=\"image\">\n\n                                    <!-- <img src=\"images/k-publication-icon.jpg\" alt=\"\"> -->\n                                    <figcaption class=\"company-name-link-wrap py-xs-3 px-xs-3\">\n\n                                        <p class=\"company-icon-img\"><img src=\"svgs/publication.svg\" alt=\"\"></p>\n                                        <p class=\"founding-yr\">1993</p>\n                                        <h3 class=\"company-name color-white\">Kantipur\n                                            Publications</h3>\n\n                                    </figcaption>\n                                </a>\n\n                            </div>\n\n                        </div><div class=\"company-block slick-slide slick-current slick-active\" data-slick-index=\"1\" aria-hidden=\"false\" tabindex=\"0\" style=\"width: 540px;\">\n                            <div class=\"company-img\">\n                                <a class=\"main-img\" href=\"/radio-kantipur\" tabindex=\"0\">\n                                    <img src=\"images/radio-kantipur.jpg\" alt=\"\" class=\"image\">\n\n                                    <figcaption class=\"company-name-link-wrap\">\n\n                                        <p class=\"company-icon-img\"><img src=\"svgs/radio.svg\" alt=\"\"></p>\n                                        <p class=\"founding-yr\">1998</p>\n                                        <h3 class=\"company-name color-white\">Radio\n                                            Kantipur</h3>\n\n                                    </figcaption>\n                                </a>\n\n\n\n                            </div>\n\n                        </div><div class=\"company-block slick-slide slick-active\" data-slick-index=\"2\" aria-hidden=\"false\" tabindex=\"0\" style=\"width: 540px;\">\n                            <div class=\"company-img\">\n                                <a class=\"main-img\" href=\"/kantipur-television\" tabindex=\"0\">\n                                    <img src=\"images/kantipur-tv.jpg\" alt=\"\" class=\"image\">\n\n                                    <figcaption class=\"company-name-link-wrap\">\n\n                                        <p class=\"company-icon-img\"><img src=\"svgs/ktv.svg\" alt=\"\"></p>\n                                        <p class=\"founding-yr\">2003</p>\n                                        <h3 class=\"company-name color-white\">Kantipur Television Network</h3>\n                                    </figcaption>\n                                </a>\n                            </div>\n\n                        </div><div class=\"company-block slick-slide\" data-slick-index=\"3\" aria-hidden=\"true\" tabindex=\"-1\" style=\"width: 540px;\">\n                            <div class=\"company-img\">\n                                <a class=\"main-img\" href=\"/kantipur-foundation\" tabindex=\"-1\">\n                                    <img src=\"images/kantipur-foundation.jpg\" alt=\"\" class=\"image\">\n                                    <figcaption class=\"company-name-link-wrap\">\n\n                                        <p class=\" company-icon-img\"><img src=\"svgs/kfoundation-w.svg\" alt=\"\"></p>\n                                        <p class=\"founding-yr\">2014</p>\n                                        <h3 class=\"company-name color-white\">Kantipur Foundation</h3>\n\n                                    </figcaption>\n                                </a>\n\n\n                            </div>\n\n                        </div><div class=\"company-block slick-slide slick-cloned\" data-slick-index=\"4\" aria-hidden=\"true\" tabindex=\"-1\" style=\"width: 540px;\">\n                            <div class=\"company-img\">\n                                <a class=\"main-img\" href=\"/kantipur-publication\" tabindex=\"-1\"><img src=\"images/publication.jpg\" alt=\"\" class=\"image\">\n\n                                    <!-- <img src=\"images/k-publication-icon.jpg\" alt=\"\"> -->\n                                    <figcaption class=\"company-name-link-wrap py-xs-3 px-xs-3\">\n\n                                        <p class=\"company-icon-img\"><img src=\"svgs/publication.svg\" alt=\"\"></p>\n                                        <p class=\"founding-yr\">1993</p>\n                                        <h3 class=\"company-name color-white\">Kantipur\n                                            Publications</h3>\n\n                                    </figcaption>\n                                </a>\n\n                            </div>\n\n                        </div><div class=\"company-block slick-slide slick-cloned\" data-slick-index=\"5\" aria-hidden=\"true\" tabindex=\"-1\" style=\"width: 540px;\">\n                            <div class=\"company-img\">\n                                <a class=\"main-img\" href=\"/radio-kantipur\" tabindex=\"-1\">\n                                    <img src=\"images/radio-kantipur.jpg\" alt=\"\" class=\"image\">\n\n                                    <figcaption class=\"company-name-link-wrap\">\n\n                                        <p class=\"company-icon-img\"><img src=\"svgs/radio.svg\" alt=\"\"></p>\n                                        <p class=\"founding-yr\">1998</p>\n                                        <h3 class=\"company-name color-white\">Radio\n                                            Kantipur</h3>\n\n                                    </figcaption>\n                                </a>\n\n\n\n                            </div>\n\n                        </div><div class=\"company-block slick-slide slick-cloned\" data-slick-index=\"6\" aria-hidden=\"true\" tabindex=\"-1\" style=\"width: 540px;\">\n                            <div class=\"company-img\">\n                                <a class=\"main-img\" href=\"/kantipur-television\" tabindex=\"-1\">\n                                    <img src=\"images/kantipur-tv.jpg\" alt=\"\" class=\"image\">\n\n                                    <figcaption class=\"company-name-link-wrap\">\n\n                                        <p class=\"company-icon-img\"><img src=\"svgs/ktv.svg\" alt=\"\"></p>\n                                        <p class=\"founding-yr\">2003</p>\n                                        <h3 class=\"company-name color-white\">Kantipur Television Network</h3>\n                                    </figcaption>\n                                </a>\n                            </div>\n\n                        </div><div class=\"company-block slick-slide slick-cloned\" data-slick-index=\"7\" aria-hidden=\"true\" tabindex=\"-1\" style=\"width: 540px;\">\n                            <div class=\"company-img\">\n                                <a class=\"main-img\" href=\"/kantipur-foundation\" tabindex=\"-1\">\n                                    <img src=\"images/kantipur-foundation.jpg\" alt=\"\" class=\"image\">\n                                    <figcaption class=\"company-name-link-wrap\">\n\n                                        <p class=\" company-icon-img\"><img src=\"svgs/kfoundation-w.svg\" alt=\"\"></p>\n                                        <p class=\"founding-yr\">2014</p>\n                                        <h3 class=\"company-name color-white\">Kantipur Foundation</h3>\n\n                                    </figcaption>\n                                </a>\n\n\n                            </div>\n\n                        </div></div></div>\n                        \n                        \n                        \n                    <button class=\"slick-next slick-arrow\" aria-label=\"Next\" type=\"button\" style=\"\">Next</button></div>\n\n                </div>\n            </div>\n        </div>\n    </section>\n\n    <!-- Testimonial Section -->\n    <section class=\"testimonials-section section-padding\">\n        <div class=\"container container-md\">\n            <h2 class=\"main-heading text-center\">Message From Chairman</h2>\n            <div class=\"testimonial-wrap d-flex align-items-center\">\n                <!-- 1 -->\n                <div class=\"testimonial-block\">\n                    <div class=\"testimonial-content-wrap\">\n                        <figure class=\"testi-img\"><img src=\"images/kailash-sirohiya1.jpg\" alt=\"\"></figure>\n                        <div class=\"testimonial-txt-wrap\">\n                            <p class=\"testi-txt pr-lg-5\">\"We have always believed that a free press is integral to\n                                democracy—for democracy depends on an informed citizenry. As a free press, we are\n                                beholden to the governed, and not the government.\n                                We also believe that freedom of the press doesn’t mean we are entitled to slander\n                                and\n                                settle scores through our outlets. A free press is a responsible press.\"</p>\n\n                            <div class=\"testi-author\">Kailash Sirohiya\n                                <span class=\"designation d-block\">Chairman &amp; MD</span>\n                            </div>\n                        </div>\n                    </div>\n\n                </div>\n\n            </div>\n\n        </div>\n\n\n    </section>\n\n    <!-- News Section -->\n    <section class=\"news-n-team-section light-gray\">\n        <div class=\"row no-gutters\">\n            <div class=\"col-lg-6 h-100\">\n                <div class=\"news-sliders-wrap\">\n                    <div class=\"slider slider-main slick-initialized slick-slider\">\n                        <div class=\"slick-list draggable\"><div class=\"slick-track\" style=\"opacity: 1; width: 5120px;\"><div class=\"news-img-main image slick-slide slick-current slick-active\" data-slick-index=\"0\" aria-hidden=\"false\" tabindex=\"0\" style=\"width: 640px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;\">\n                            <figure>\n                                <a href=\"/madhesh-manthan-2022\" tabindex=\"0\">\n                                    <img src=\"images/madhesh-manthan.jpg\" alt=\"\" style=\"object-fit:contain;\" class=\"w-100\">\n                                </a>\n                            </figure>\n                        </div><div class=\"news-img-main image slick-slide\" data-slick-index=\"1\" aria-hidden=\"true\" tabindex=\"-1\" style=\"width: 640px; position: relative; left: -640px; top: 0px; z-index: 998; opacity: 0;\">\n                            <figure>\n                                <a href=\"/economicsummit2021\" tabindex=\"-1\">\n                                    <img src=\"images/mnemonic.jpg\" alt=\"\" class=\"w-100\">\n                                </a>\n                            </figure>\n                        </div><div class=\"news-img-main image slick-slide\" data-slick-index=\"2\" aria-hidden=\"true\" tabindex=\"-1\" style=\"width: 640px; position: relative; left: -1280px; top: 0px; z-index: 998; opacity: 0;\">\n                            <figure>\n                                <a href=\"http://kantipurconclave.com\" tabindex=\"-1\">\n                                    <img src=\"svgs/logo-dark.svg\">\n                                </a>\n                            </figure>\n                        </div><div class=\"news-img-main image slick-slide\" data-slick-index=\"3\" aria-hidden=\"true\" tabindex=\"-1\" style=\"width: 640px; position: relative; left: -1920px; top: 0px; z-index: 998; opacity: 0;\">\n                            <figure>\n                                <a href=\"/the-kathmandu-post-mud-fest-2019\" tabindex=\"-1\">\n                                    <img src=\"images/news-image-2.jpg\">\n                                </a>\n                            </figure>\n                        </div><div class=\"news-img-main image slick-slide\" data-slick-index=\"4\" aria-hidden=\"true\" tabindex=\"-1\" style=\"width: 640px; position: relative; left: -2560px; top: 0px; z-index: 998; opacity: 0;\">\n                            <figure>\n                                <a href=\"/kantipur-ko-karodpati-3-bumper-lucky-draw\" tabindex=\"-1\">\n                                    <img src=\"images/kantipur-karodpati2076-4.jpg\">\n                                </a>\n                            </figure>\n                        </div><div class=\"news-img-main image slick-slide\" data-slick-index=\"5\" aria-hidden=\"true\" tabindex=\"-1\" style=\"width: 640px; position: relative; left: -3200px; top: 0px; z-index: 998; opacity: 0;\">\n                            <figure>\n                                <a href=\"/kantipur-half-marathon-2019\" tabindex=\"-1\">\n                                    <img src=\"images/news-image-3.jpg\">\n                                </a>\n                            </figure>\n                        </div><div class=\"news-img-main image slick-slide\" data-slick-index=\"6\" aria-hidden=\"true\" tabindex=\"-1\" style=\"width: 640px; position: relative; left: -3840px; top: 0px; z-index: 998; opacity: 0;\">\n                            <figure>\n                                <a href=\"/kantipur-icon-2075\" tabindex=\"-1\">\n                                    <img src=\"images/news-image-4.jpg\">\n                                </a>\n                            </figure>\n                        </div><div class=\"news-img-main image slick-slide\" data-slick-index=\"7\" aria-hidden=\"true\" tabindex=\"-1\" style=\"width: 640px; position: relative; left: -4480px; top: 0px; z-index: 998; opacity: 0;\">\n                            <figure>\n                                <a href=\"/national-music-awards-2075\" tabindex=\"-1\">\n                                    <img src=\"images/news-image-5.jpg\">\n                                </a>\n                            </figure>\n                        </div></div></div>\n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                    </div>\n                    <div class=\"news-wrap text-center text-sm-left sp-block\">\n                        <h1 class=\"mb-4\">News &amp; Events</h1>\n                        <div class=\"news-block-wrap slick-initialized slick-slider slick-dotted\">\n                            <!-- 1st -->\n\n\n                            <div class=\"slick-list draggable\"><div class=\"slick-track\" style=\"opacity: 1; width: 3840px;\"><div class=\"blogpost news-block slick-slide slick-current slick-active\" data-slick-index=\"0\" aria-hidden=\"false\" tabindex=\"0\" role=\"tabpanel\" id=\"slick-slide20\" aria-describedby=\"slick-slide-control20\" style=\"width: 480px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;\">\n                                <a href=\"/madhesh-manthan-2022\" tabindex=\"0\">\n                                    <div class=\"half\">\n                                        <div class=\"blog-title\">\n                                            <h4>Madhesh Manthan 2022</h4>\n                                        </div>\n                                    </div>\n                                    <div class=\"half\">\n                                        <div class=\"content news-block-content\">\n                                            <p>An interaction on how to bring about prosperity to the Madhesh province through sustainable development and transformation for the all-around development of agricultural, industrial, business, tourism, governance, administration and social sectors here.\n                                            </p>\n                                        </div>\n                                    </div>\n                                </a>\n                            </div><div class=\"blogpost news-block slick-slide\" data-slick-index=\"1\" aria-hidden=\"true\" tabindex=\"-1\" role=\"tabpanel\" id=\"slick-slide21\" aria-describedby=\"slick-slide-control21\" style=\"width: 480px; position: relative; left: -480px; top: 0px; z-index: 998; opacity: 0;\">\n                                <a href=\"/economicsummit2021\" tabindex=\"-1\">\n                                    <div class=\"half\">\n                                        <div class=\"blog-title\">\n                                            <h4>Kantipur Economic Summit 2021</h4>\n                                        </div>\n                                    </div>\n                                    <div class=\"half\">\n                                        <div class=\"content news-block-content\">\n                                            <p>When Nepal promulgated its new constitution in 2015, it was a watershed moment. The country was officially declared a federal democratic republic on the night of September 20 that year. The long turbulent political transition was effectively over.\n                                            </p>\n                                        </div>\n                                    </div>\n                                </a>\n                            </div><div class=\"blogpost news-block slick-slide\" data-slick-index=\"2\" aria-hidden=\"true\" tabindex=\"-1\" role=\"tabpanel\" id=\"slick-slide22\" aria-describedby=\"slick-slide-control22\" style=\"width: 480px; position: relative; left: -960px; top: 0px; z-index: 998; opacity: 0;\">\n                                <a href=\"http://kantipurconclave.com\" tabindex=\"-1\">\n                                    <div class=\"half\">\n                                        <div class=\"blog-title\">\n                                            <h4>Kantipur Conclave 2020</h4>\n                                        </div>\n                                    </div>\n                                    <div class=\"half\">\n                                        <div class=\"content news-block-content\">\n                                            <p>With an aim to uphold this interdisciplinary platform and continue insightful discourses, KMG is organizing the second edition of Kantipur Conclave under the theme 'Reimagining Connectivity'\n                                            </p>\n\n                                        </div>\n                                    </div>\n                                </a>\n                            </div><div class=\"blogpost news-block slick-slide\" data-slick-index=\"3\" aria-hidden=\"true\" tabindex=\"-1\" role=\"tabpanel\" id=\"slick-slide23\" aria-describedby=\"slick-slide-control23\" style=\"width: 480px; position: relative; left: -1440px; top: 0px; z-index: 998; opacity: 0;\">\n                                <a href=\"/the-kathmandu-post-mud-fest-2019\" tabindex=\"-1\">\n                                    <div class=\"half\">\n                                        <div class=\"blog-title\">\n                                            <h4>The Kathmandu Post Mud fest 2019</h4>\n                                        </div>\n                                    </div>\n                                    <div class=\"half\">\n                                        <div class=\"content news-block-content\">\n                                            <p>The Kathmandu Post celebrated the Mud Festival 2019 in connection\n                                                with\n                                                activities\n                                                focused\n                                                on honoring the environment, growing paddy fields and many more\n                                                entertainments.\n                                            </p>\n                                        </div>\n                                    </div>\n                                </a>\n                            </div><div class=\"blogpost news-block slick-slide\" data-slick-index=\"4\" aria-hidden=\"true\" tabindex=\"-1\" role=\"tabpanel\" id=\"slick-slide24\" aria-describedby=\"slick-slide-control24\" style=\"width: 480px; position: relative; left: -1920px; top: 0px; z-index: 998; opacity: 0;\">\n                                <a href=\"/kantipur-ko-karodpati-3-bumper-lucky-draw\" tabindex=\"-1\">\n                                    <div class=\"half\">\n                                        <div class=\"blog-title\">\n                                            <h4>Kantipur ko Karodpati 3 Bumper Lucky Draw</h4>\n                                        </div>\n                                    </div>\n                                    <div class=\"half\">\n                                        <div class=\"content news-block-content\">\n                                            <p>Kantipur ko Karodpati season 3 is the 16th Circulation Campaign of\n                                                Kantipur\n                                                Publications.\n                                                The campaign was 5 months long. </p>\n\n                                        </div>\n                                    </div>\n                                </a>\n                            </div><div class=\"blogpost news-block slick-slide\" data-slick-index=\"5\" aria-hidden=\"true\" tabindex=\"-1\" role=\"tabpanel\" id=\"slick-slide25\" aria-describedby=\"slick-slide-control25\" style=\"width: 480px; position: relative; left: -2400px; top: 0px; z-index: 998; opacity: 0;\">\n                                <a href=\"/kantipur-half-marathon-2019\" tabindex=\"-1\">\n                                    <div class=\"half\">\n                                        <div class=\"blog-title\">\n                                            <h4>Kantipur Half Marathon 2019</h4>\n                                        </div>\n                                    </div>\n                                    <div class=\"half\">\n                                        <div class=\"content news-block-content\">\n                                            <p>Kantipur Publications has been organizing Kantipur Half Marathon to\n                                                mark\n                                                its\n                                                anniversary\n                                                for 9 years now. The first Kantipur Half Marathon was commenced at\n                                                the\n                                                year\n                                                7th\n                                                Falgun,\n                                                2067 (19th February, 2011) on the 18th anniversary of Kantipur\n                                                Publications\n                                                and\n                                                it has\n                                                been a trend since then.\n                                            </p>\n\n                                        </div>\n                                    </div>\n                                </a>\n                            </div><div class=\"blogpost news-block slick-slide\" data-slick-index=\"6\" aria-hidden=\"true\" tabindex=\"-1\" role=\"tabpanel\" id=\"slick-slide26\" aria-describedby=\"slick-slide-control26\" style=\"width: 480px; position: relative; left: -2880px; top: 0px; z-index: 998; opacity: 0;\">\n                                <a href=\"/kantipur-icon-2075\" tabindex=\"-1\">\n                                    <div class=\"half\">\n                                        <div class=\"blog-title\">\n                                            <h4>Kantipur Icon 2075</h4>\n                                        </div>\n                                    </div>\n                                    <div class=\"half\">\n                                        <div class=\"content news-block-content\">\n                                            <p>On the occasion of the 25th anniversary of Kantipur Publications,\n                                                Kantipur\n                                                Foundation,\n                                                the philanthropic arm of Kantipur Media Group (KMG), hosted a\n                                                Kantipur\n                                                Icon.\n                                                Established\n                                                in 2014, the award honors individuals (living or deceased),\n                                                institutions\n                                                or\n                                                groups that\n                                                have made a positive contribution to Nepali Society.\n                                            </p>\n\n                                        </div>\n                                    </div>\n                                </a>\n                            </div><div class=\"blogpost news-block slick-slide\" data-slick-index=\"7\" aria-hidden=\"true\" tabindex=\"-1\" role=\"tabpanel\" id=\"slick-slide27\" aria-describedby=\"slick-slide-control27\" style=\"width: 480px; position: relative; left: -3360px; top: 0px; z-index: 998; opacity: 0;\">\n                                <a href=\"/national-music-awards-2075\" tabindex=\"-1\">\n                                    <div class=\"half\">\n                                        <div class=\"blog-title\">\n                                            <h4>National Music Awards 2075</h4>\n                                        </div>\n                                    </div>\n                                    <div class=\"half\">\n                                        <div class=\"content news-block-content\">\n                                            <p>Radio Kantipur presented the 20th edition of National Music Awards\n                                                2075\n                                                on\n                                                the\n                                                premises\n                                                of Soaltee Crowne Plaza in Kathmandu on Friday evening.\n\n                                                Addressing the event, Chairman and Managing Director of KMG Kailash\n                                                Sirohiya\n                                                said\n                                                besides being a conduit for dissemination of balanced news and\n                                                information\n                                                and a\n                                                crucial..\n\n                                            </p>\n\n                                        </div>\n                                    </div>\n                                </a>\n                            </div></div></div>\n\n\n                             \n\n                            \n                           \n                            <!-- 1st -->\n                            \n                            <!-- 2nd -->\n                            \n                            \n                            <!-- 3rd -->\n                            \n\n                            <!-- 4th -->\n                            \n                            <!-- 5th -->\n                            \n\n                            <!-- 6th -->\n                            \n                        <ul class=\"slick-dots\" style=\"\" role=\"tablist\"><li class=\"slick-active\" role=\"presentation\"><button type=\"button\" role=\"tab\" id=\"slick-slide-control20\" aria-controls=\"slick-slide20\" aria-label=\"1 of 8\" tabindex=\"0\" aria-selected=\"true\">1</button></li><li role=\"presentation\"><button type=\"button\" role=\"tab\" id=\"slick-slide-control21\" aria-controls=\"slick-slide21\" aria-label=\"2 of 8\" tabindex=\"-1\">2</button></li><li role=\"presentation\"><button type=\"button\" role=\"tab\" id=\"slick-slide-control22\" aria-controls=\"slick-slide22\" aria-label=\"3 of 8\" tabindex=\"-1\">3</button></li><li role=\"presentation\"><button type=\"button\" role=\"tab\" id=\"slick-slide-control23\" aria-controls=\"slick-slide23\" aria-label=\"4 of 8\" tabindex=\"-1\">4</button></li><li role=\"presentation\"><button type=\"button\" role=\"tab\" id=\"slick-slide-control24\" aria-controls=\"slick-slide24\" aria-label=\"5 of 8\" tabindex=\"-1\">5</button></li><li role=\"presentation\"><button type=\"button\" role=\"tab\" id=\"slick-slide-control25\" aria-controls=\"slick-slide25\" aria-label=\"6 of 8\" tabindex=\"-1\">6</button></li><li role=\"presentation\"><button type=\"button\" role=\"tab\" id=\"slick-slide-control26\" aria-controls=\"slick-slide26\" aria-label=\"7 of 8\" tabindex=\"-1\">7</button></li><li role=\"presentation\"><button type=\"button\" role=\"tab\" id=\"slick-slide-control27\" aria-controls=\"slick-slide27\" aria-label=\"8 of 8\" tabindex=\"-1\">8</button></li></ul></div>\n\n\n                    </div>\n                </div>\n\n\n            </div>\n            <div class=\"col-lg-6 h-100\">\n                <div class=\"team-entry-wrap text-center text-sm-left sp-block\">\n                    <h1 class=\"mb-4\">\n                        Our Team\n                    </h1>\n\n                    <p class=\"pt-3 pb-5\">To produce our signature journalism and strong products that stand apart, we\n                        need the finest talent in the world. At Kantipur Media Group, we value employees at all stages\n                        of their careers that bring different perspective and experience to KMG.</p>\n\n                    <a href=\"/team\" class=\"btn-gen btn btn-primary\">Meet Our Team</a>\n                </div>\n            </div>\n        </div>\n    </section>\n</div>\n\n\n\n<!-- Footer Section -->\n    <style>\n      .orientation-message{\n        position: fixed;\n        z-index:9999;\n       left: 0;\n        right:0;\n        top: 0;\n        bottom: 0;\n        background: #000;\n        vertical-align: middle;\n        color:#fff;\n        font-weight: bold;\n        font-size: 1.25rem;\n        width: 100%;\n        height: 100%;\n      }\n      .element{\n        width: 100%;\n        height: 50px;\n        position: absolute;\n        left: 0;\n        right:0;\n        top: 0;\n        bottom: 0;\n        margin:auto 0;\n        text-align: center;\n      }\n    </style>\n    <div class=\"orientation-message\" style=\"display:none\">\n        <div class=\"element\">\n            Please use Portrait View\n        </div>\n    </div>\n    <footer class=\"main-footer section-padding\">\n        <div class=\"footer-wrap\">\n            <div class=\"container\">\n                <div class=\"row justify-content-between\">\n                    <div class=\"col-lg-2 col-sm-6\">\n                        <div class=\"block\">\n                            <h3>About</h3>\n                            <ul>\n                                <li><a href=\"/team\">Team</a></li>\n                                <li><a href=\"/career\">Careers</a></li>\n\n                            </ul>\n                        </div>\n                    </div>\n                    <div class=\"col-lg-2 col-md-6\">\n                        <div class=\"block\">\n                            <h3>Reach Us</h3>\n                            <ul>\n                                <li><a href=\"/advertise\">Advertisement</a></li>\n                                <li><a href=\"https://subscription.kmg.com.np/\" target=\"_blank\">Subscriptions</a></li>\n                                <li><a href=\"/faq\">FAQs</a></li>\n\n                            </ul>\n                        </div>\n                    </div>\n\n                    <div class=\"col-lg-8\">\n                        <div class=\"block\">\n                            <h3>Contact Information</h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-6\">\n                                    <div class=\"info-content\">\n                                        <p><strong>Address</strong>\n                                            Central Business Park, Thapathali,\n                                            Kathmandu, Nepal.</p>\n                                    </div>\n                                    <div class=\"info-content\">\n                                        <p><strong>Toll Free Numbers</strong>\n                                            <a href=\"tel:16600122222\">1660 01 22222</a> (Ntc), <a href=\"tel:9801572222\">9801\n                                                57 2222</a> (Ncell)</p>\n                                    </div>\n                                    <div class=\"info-content emails-info\">\n                                        <p><strong>Email</strong><a href=\"mailto:corporate@kmg.com.np\">corporate@kmg.com.np</a>, <a href=\"mailto:csd@kmg.com.np\">csd@kmg.com.np</a></p>\n                                    </div>\n                                </div>\n                                <div class=\"col-md-3\">\n                                    <div class=\"info-content\">\n                                        <p><strong>Phone</strong><a href=\"tel:+977015135000\">+977-1-5135000</a></p>\n                                    </div>\n                                    <div class=\"info-content\">\n                                        <p><strong>Fax</strong>+977-1-5135001</p>\n                                    </div>\n                                </div>\n                                <div class=\"col-md-2\">\n                                    <a href=\"/\" class=\"bottom-logo\"><img src=\"svgs/logo.svg\" alt=\"\"></a>\n                                </div>\n                            </div>\n                        </div>\n\n                    </div>\n                </div>\n                <div class=\"copyright d-flex align-items-center justify-content-between\">\n                   <div>\n                        <span> © 2025 Kantipur Media Group, All right reserved </span>\n                        <span class=\"d-block d-md-inline\"><a href=\"/privacy-policy\" class=\"px-2\">Privacy Policy</a> | <a href=\"/terms-and-conditions\" class=\"px-2\">Terms &amp; Conditions</a></span>\n                    </div>\n                   <div style=\"display:none;\"> \n                        <span class=\"tech-partner-info d-flex align-items-center\">Technology Partner <a href=\"https://mns.com.np/profile-page-orange-tech/\" target=\"_blank\" class=\"ml-2\"><img src=\"svgs/orange-tech-logo.svg\" alt=\"\"></a></span> <a href=\"#\" id=\"toTop\"><i class=\"fas fa-chevron-up fa-2x\"></i></a>\n                    </div>\n                </div>\n\n            </div>\n        </div>\n    </footer>\n</div>\n\n<div aria-hidden=\"true\" aria-labelledby=\"myModalLabel\" class=\"modal fade kmg-intro-video\" id=\"modalYT\" role=\"dialog\" tabindex=\"-1\">\n    <div class=\"modal-dialog modal-lg\" role=\"document\" style=\"height: 720px; margin-top: 0px; margin-bottom: 0px;\">\n        <div class=\"modal-content\">\n            <div class=\"modal-body mb-0 p-0\">\n                <div class=\"embed-responsive embed-responsive-16by9 z-depth-1-half\">\n                    <iframe allowfullscreen=\"\" class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/LQHm_pYbzyI\"></iframe>\n                </div>\n            </div>\n\n        </div>\n    </div>\n</div>\n<script type=\"text/javascript\" src=\"../js/jquery.fancybox.js\"></script>\n<script type=\"text/javascript\">\n    $(document).ready(function() {\n        /* For Companies Carousel Section\n        on Homepage */\n        $('.companies-carousel').slick({\n            lazyLoad: 'ondemand',\n            slidesToShow: 2,\n            slidesToScroll: 1,\n            autoplay: true,\n            autoplaySpeed: 3000,\n            responsive: [{\n                    breakpoint: 432,\n                    settings: {\n                        slidesToShow: 1\n                    }\n                },\n                {\n                    breakpoint: 375,\n                    settings: {\n                        slidesToShow: 1\n                    }\n                },\n                {\n                    breakpoint: 360,\n                    settings: {\n                        slidesToShow: 1\n                    }\n                },\n            ]\n        });\n\n\n\n        /*  News Scoller synced Section\n        on Homepage */\n        $('.slider-main').slick({\n            slidesToShow: 1,\n            arrows: false,\n            autoplaySpeed:6000,\n            asNavFor: '.news-block-wrap',\n            fade: true,\n            autoplay: true,\n            speed: 3000,\n            responsive: [{\n                breakpoint: 479,\n                settings: {\n                    vertical: false,\n                }\n            }]\n        });\n\n        $('.news-block-wrap').slick({\n            slidesToShow: 1,\n            asNavFor: '.slider-main',\n            fade: true,\n            autoplaySpeed:6000,\n            focusOnSelect: true,\n            autoplay: false,\n            speed: 3000,\n            arrows: false,\n            dots: true,\n            responsive: [{\n                    breakpoint: 991,\n                    settings: {\n                        slidesToShow: 1,\n                    }\n                },\n                {\n                    breakpoint: 767,\n                    settings: {\n                        slidesToShow: 1,\n                    }\n                },\n                {\n                    breakpoint: 575,\n                    settings: {\n                        slidesToShow: 1,\n                        vertical: false,\n                    }\n                }\n            ]\n        });\n\n        /*  stop video on\n        popup close */\n        $('.modal').each(function() {\n            var src = $(this).find('iframe').attr('src');\n\n            $(this).on('click', function() {\n\n                $(this).find('iframe').attr('src', '');\n                $(this).find('iframe').attr('src', src);\n\n            });\n        });\n\n       \n\n    });\n\n    function adjustGoToTop(){\n        console.log('hree');\n             if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {\n                $('#toTop').fadeIn();\n            } else {\n                $('#toTop').fadeOut();\n            }\n         }\n\n    jQuery(document).ready(function($) {\n            /*  Photo Gallery Popup Jquery\n            for Media Page */\n            $(\".media-photo-gallery\").fancybox({\n                        margin: [44, 0, 22, 0],\n                        thumbs: {\n                            autoStart: true\n                        },\n                        hash:false\n            });\n\n            /*  To move section smoothly to bottom when clickedon \n            breadcrumb down arrow */\n            var offsetSize = $(\"header\").innerHeight(); \n            $('.scroll-down').on('click', function(e) {\n                e.preventDefault();\n                $('html, body').animate({\n                    scrollTop: $($(this).attr('href')).offset().top - offsetSize\n                }, 800, 'linear');\n            });\n\n             /*  To Top\n             on Clicked */\n             adjustGoToTop();\n             \n            $('body').on('scroll', function (e){\n                adjustGoToTop();\n            });\n\n            $(\"#toTop\").click(function() {\n\n                $(\"html, body\").animate({\n                    scrollTop: 0\n                }, 1000);\n                adjustGoToTop();\n            });\n     \n\n    });\n        \n\n</script>\n\n<script>\n    </script>\n<!-- Tracking code easily added by NK Google Analytics -->\n<script type=\"text/javascript\">\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-10805376-43', 'auto');\n  ga('send', 'pageview');\n\n</script> \n\n\n\n\n</body></html>",
+  "links": [
+    {
+      "url": "https://kmg.com.np/",
+      "text": "",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "ABOUT.\nCOMPANIES.\nMEDIA.\nADVERTISEMENT.\nSUBSCRIBE"
+    },
+    {
+      "url": "https://kmg.com.np/about",
+      "text": "ABOUT.",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "ABOUT."
+    },
+    {
+      "url": "https://kmg.com.np/",
+      "text": "COMPANIES.",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "COMPANIES."
+    },
+    {
+      "url": "https://kmg.com.np/kantipur-publication",
+      "text": "Kantipur\n                                                    Publications",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "COMPANIES."
+    },
+    {
+      "url": "https://kmg.com.np/radio-kantipur",
+      "text": "Radio\n                                                    Kantipur",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "COMPANIES."
+    },
+    {
+      "url": "https://kmg.com.np/kantipur-television",
+      "text": "Kantipur\n                                                    Television",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "COMPANIES."
+    },
+    {
+      "url": "https://kmg.com.np/kantipur-foundation",
+      "text": "Kantipur\n                                                    Foundation",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "COMPANIES."
+    },
+    {
+      "url": "https://kmg.com.np/media",
+      "text": "MEDIA.",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "MEDIA."
+    },
+    {
+      "url": "https://kmg.com.np/advertise",
+      "text": "ADVERTISEMENT.",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "ADVERTISEMENT."
+    },
+    {
+      "url": "https://kmg.com.np/about",
+      "text": "DISCOVER KMG",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": ""
+    },
+    {
+      "url": "https://kmg.com.np/",
+      "text": "",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": ""
+    },
+    {
+      "url": "https://kmg.com.np/kantipur-television",
+      "text": "2003\n\nKantipur Television Network",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "Kantipur Television Network",
+      "context": "2003\n\nKantipur Television Network"
+    },
+    {
+      "url": "https://kmg.com.np/kantipur-foundation",
+      "text": "2014\n\nKantipur Foundation",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "Kantipur Foundation",
+      "context": "2014\n\nKantipur Foundation"
+    },
+    {
+      "url": "https://kmg.com.np/kantipur-publication",
+      "text": "1993\n\nKantipur Publications",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "Kantipur Publications",
+      "context": "1993\n\nKantipur Publications"
+    },
+    {
+      "url": "https://kmg.com.np/radio-kantipur",
+      "text": "1998\n\nRadio Kantipur",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "Radio Kantipur",
+      "context": "1998\n\nRadio Kantipur"
+    },
+    {
+      "url": "https://kmg.com.np/kantipur-television",
+      "text": "2003\n\nKantipur Television Network",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "Kantipur Television Network",
+      "context": "2003\n\nKantipur Television Network"
+    },
+    {
+      "url": "https://kmg.com.np/kantipur-foundation",
+      "text": "2014\n\nKantipur Foundation",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "Kantipur Foundation",
+      "context": "2014\n\nKantipur Foundation"
+    },
+    {
+      "url": "https://kmg.com.np/kantipur-publication",
+      "text": "1993\n\nKantipur Publications",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "Kantipur Publications",
+      "context": "1993\n\nKantipur Publications"
+    },
+    {
+      "url": "https://kmg.com.np/radio-kantipur",
+      "text": "1998\n\nRadio Kantipur",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "Radio Kantipur",
+      "context": "1998\n\nRadio Kantipur"
+    },
+    {
+      "url": "https://kmg.com.np/kantipur-television",
+      "text": "2003\n\nKantipur Television Network",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "Kantipur Television Network",
+      "context": "2003\n\nKantipur Television Network"
+    },
+    {
+      "url": "https://kmg.com.np/kantipur-foundation",
+      "text": "2014\n\nKantipur Foundation",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "Kantipur Foundation",
+      "context": "2014\n\nKantipur Foundation"
+    },
+    {
+      "url": "https://kmg.com.np/madhesh-manthan-2022",
+      "text": "",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": ""
+    },
+    {
+      "url": "https://kmg.com.np/economicsummit2021",
+      "text": "",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": ""
+    },
+    {
+      "url": "https://kmg.com.np/the-kathmandu-post-mud-fest-2019",
+      "text": "",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": ""
+    },
+    {
+      "url": "https://kmg.com.np/kantipur-ko-karodpati-3-bumper-lucky-draw",
+      "text": "",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": ""
+    },
+    {
+      "url": "https://kmg.com.np/kantipur-half-marathon-2019",
+      "text": "",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": ""
+    },
+    {
+      "url": "https://kmg.com.np/kantipur-icon-2075",
+      "text": "",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": ""
+    },
+    {
+      "url": "https://kmg.com.np/national-music-awards-2075",
+      "text": "",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": ""
+    },
+    {
+      "url": "https://kmg.com.np/madhesh-manthan-2022",
+      "text": "Madhesh Manthan 2022\n\nAn interaction on how to bring about prosperity to the Madhesh province through sustainable development and transformation for the all-around development of agricultural, industrial, business, tourism, governance, administration and social sectors here.",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "Madhesh Manthan 2022",
+      "context": "Madhesh Manthan 2022\n\nAn interaction on how to bring about prosperity to the Madhesh province through sustainable development and transformation for the all-around development of agricultural, industrial, business, tourism, governance, administration and social sectors here."
+    },
+    {
+      "url": "https://kmg.com.np/economicsummit2021",
+      "text": "Kantipur Economic Summit 2021\n\nWhen Nepal promulgated its new constitution in 2015, it was a watershed moment. The country was officially declared a federal democratic republic on the night of September 20 that year. The long turbulent political transition was effectively over.",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "Kantipur Economic Summit 2021",
+      "context": "Kantipur Economic Summit 2021\n\nWhen Nepal promulgated its new constitution in 2015, it was a watershed moment. The country was officially declared a federal democratic republic on the night of September 20 that year. The long turbulent political transition was effectively over."
+    },
+    {
+      "url": "https://kmg.com.np/the-kathmandu-post-mud-fest-2019",
+      "text": "The Kathmandu Post Mud fest 2019\n\nThe Kathmandu Post celebrated the Mud Festival 2019 in connection with activities focused on honoring the environment, growing paddy fields and many more entertainments.",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "The Kathmandu Post Mud fest 2019",
+      "context": "The Kathmandu Post Mud fest 2019\n\nThe Kathmandu Post celebrated the Mud Festival 2019 in connection with activities focused on honoring the environment, growing paddy fields and many more entertainments."
+    },
+    {
+      "url": "https://kmg.com.np/kantipur-ko-karodpati-3-bumper-lucky-draw",
+      "text": "Kantipur ko Karodpati 3 Bumper Lucky Draw\n\nKantipur ko Karodpati season 3 is the 16th Circulation Campaign of Kantipur Publications. The campaign was 5 months long.",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "Kantipur ko Karodpati 3 Bumper Lucky Draw",
+      "context": "Kantipur ko Karodpati 3 Bumper Lucky Draw\n\nKantipur ko Karodpati season 3 is the 16th Circulation Campaign of Kantipur Publications. The campaign was 5 months long."
+    },
+    {
+      "url": "https://kmg.com.np/kantipur-half-marathon-2019",
+      "text": "Kantipur Half Marathon 2019\n\nKantipur Publications has been organizing Kantipur Half Marathon to mark its anniversary for 9 years now. The first Kantipur Half Marathon was commenced at the year 7th Falgun, 2067 (19th February, 2011) on the 18th anniversary of Kantipur Publications and it has been a trend since then.",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "Kantipur Half Marathon 2019",
+      "context": ""
+    },
+    {
+      "url": "https://kmg.com.np/kantipur-icon-2075",
+      "text": "Kantipur Icon 2075\n\nOn the occasion of the 25th anniversary of Kantipur Publications, Kantipur Foundation, the philanthropic arm of Kantipur Media Group (KMG), hosted a Kantipur Icon. Established in 2014, the award honors individuals (living or deceased), institutions or groups that have made a positive contribution to Nepali Society.",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "Kantipur Icon 2075",
+      "context": ""
+    },
+    {
+      "url": "https://kmg.com.np/national-music-awards-2075",
+      "text": "National Music Awards 2075\n\nRadio Kantipur presented the 20th edition of National Music Awards 2075 on the premises of Soaltee Crowne Plaza in Kathmandu on Friday evening. Addressing the event, Chairman and Managing Director of KMG Kailash Sirohiya said besides being a conduit for dissemination of balanced news and information and a crucial..",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "National Music Awards 2075",
+      "context": ""
+    },
+    {
+      "url": "https://kmg.com.np/team",
+      "text": "Meet Our Team",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "Our Team",
+      "context": "Our Team\n\nTo produce our signature journalism and strong products that stand apart, we need the finest talent in the world. At Kantipur Media Group, we value employees at all stages of their careers that bring different perspective and experience to KMG.\n\nMeet Our Team"
+    },
+    {
+      "url": "https://kmg.com.np/team",
+      "text": "Team",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "About",
+      "context": "Team"
+    },
+    {
+      "url": "https://kmg.com.np/career",
+      "text": "Careers",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "About",
+      "context": "Careers"
+    },
+    {
+      "url": "https://kmg.com.np/advertise",
+      "text": "Advertisement",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "Reach Us",
+      "context": "Advertisement"
+    },
+    {
+      "url": "https://kmg.com.np/faq",
+      "text": "FAQs",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "Reach Us",
+      "context": "FAQs"
+    },
+    {
+      "url": "https://kmg.com.np/",
+      "text": "",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": ""
+    },
+    {
+      "url": "https://kmg.com.np/privacy-policy",
+      "text": "Privacy Policy",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Privacy Policy | Terms & Conditions"
+    },
+    {
+      "url": "https://kmg.com.np/terms-and-conditions",
+      "text": "Terms & Conditions",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Privacy Policy | Terms & Conditions"
+    },
+    {
+      "url": "https://kmg.com.np/",
+      "text": "",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": " \n                        Technology Partner  \n                    "
+    }
+  ]
+}

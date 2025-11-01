@@ -181,5 +181,263 @@
     "cache_location": "scraper_cache",
     "similarity_threshold": 0.25,
     "max_results": 5
+  },
+  {
+    "prompt": "Media in kmg.com.np",
+    "intent": "media",
+    "website": "https://kmg.com.np",
+    "scraped_at": "2025-11-01T17:02:05.326016",
+    "total_links": 44,
+    "matched_links": [
+      {
+        "url": "https://kmg.com.np/media",
+        "text": "MEDIA.",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "",
+        "context": "MEDIA.",
+        "similarity_score": 0.6883726716041565
+      },
+      {
+        "url": "https://kmg.com.np/radio-kantipur",
+        "text": "Radio\n                                                    Kantipur",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "",
+        "context": "COMPANIES.",
+        "similarity_score": 0.290587455034256
+      },
+      {
+        "url": "https://kmg.com.np/kantipur-television",
+        "text": "Kantipur\n                                                    Television",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "",
+        "context": "COMPANIES.",
+        "similarity_score": 0.27964505553245544
+      },
+      {
+        "url": "https://kmg.com.np/radio-kantipur",
+        "text": "1998\n\nRadio Kantipur",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "Radio Kantipur",
+        "context": "1998\n\nRadio Kantipur",
+        "similarity_score": 0.26484647393226624
+      },
+      {
+        "url": "https://kmg.com.np/radio-kantipur",
+        "text": "1998\n\nRadio Kantipur",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "Radio Kantipur",
+        "context": "1998\n\nRadio Kantipur",
+        "similarity_score": 0.26484647393226624
+      }
+    ],
+    "cache_location": "scraper_cache",
+    "similarity_threshold": 0.25,
+    "max_results": 5
+  },
+  {
+    "prompt": "notice in lyceumims.edu.np",
+    "intent": "notice",
+    "website": "https://lyceumims.edu.np",
+    "scraped_at": "2025-11-01T17:04:01.166063",
+    "total_links": 41,
+    "matched_links": [
+      {
+        "url": "https://lyceumims.edu.np/",
+        "text": "Notice",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "",
+        "context": "Notice",
+        "similarity_score": 0.3032451272010803
+      },
+      {
+        "url": "https://lyceumims.edu.np/",
+        "text": "Notice",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "",
+        "context": "Notice\n                \n                Menu Toggle\n                \n                \n\n\t\n                \n                Events\n\t\n                \n                Bus Route\n\n",
+        "similarity_score": 0.3032451272010803
+      }
+    ],
+    "cache_location": "scraper_cache",
+    "similarity_threshold": 0.25,
+    "max_results": 5
+  },
+  {
+    "prompt": "is mero share available in nepalbank.com.np",
+    "intent": "is mero share available",
+    "website": "https://nepalbank.com.np",
+    "scraped_at": "2025-11-01T17:05:54.774618",
+    "total_links": 540,
+    "matched_links": [
+      {
+        "url": "https://nepalbank.com.np/news-events/news/press-release-about-teej-festive-offer-in-women-special-saving-account",
+        "text": "Press Release About Teej Festive Offer in Women Special Saving Account",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "",
+        "context": "Press Release About Teej Festive Offer in Women Special Saving Account",
+        "similarity_score": 0.31396427750587463
+      },
+      {
+        "url": "https://nepalbank.com.np/forex",
+        "text": "Forex",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "Are you looking for??",
+        "context": "\n                                Forex\n                            ",
+        "similarity_score": 0.30589258670806885
+      },
+      {
+        "url": "https://nepalbank.com.np/personal/forex",
+        "text": "",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "",
+        "context": "",
+        "similarity_score": 0.29690492153167725
+      },
+      {
+        "url": "https://nepalbank.com.np/news-events/news/press-release-about-agreement-with-om-adhyaya-retreat-pvt-ltd",
+        "text": "Press Release about agreement with Om Adhyaya Retreat Pvt Ltd",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "",
+        "context": "Press Release about agreement with Om Adhyaya Retreat Pvt Ltd",
+        "similarity_score": 0.29596707224845886
+      },
+      {
+        "url": "https://nepalbank.com.np/personal/forex",
+        "text": "Forex",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "",
+        "context": "",
+        "similarity_score": 0.2909729480743408
+      }
+    ],
+    "cache_location": "scraper_cache",
+    "similarity_threshold": 0.25,
+    "max_results": 5
+  },
+  {
+    "prompt": "find courses in https://heraldcollege.edu.np/",
+    "intent": "courses",
+    "website": "https://heraldcollege.edu.np",
+    "scraped_at": "2025-11-01T17:07:20.073750",
+    "total_links": 47,
+    "matched_links": [
+      {
+        "url": "https://heraldcollege.edu.np/our-courses",
+        "text": "COURSES",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "",
+        "context": "COURSES",
+        "similarity_score": 0.7193591594696045
+      },
+      {
+        "url": "https://heraldcollege.edu.np/our-courses",
+        "text": "OUR COURSES",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "",
+        "context": "OUR COURSES",
+        "similarity_score": 0.639462947845459
+      },
+      {
+        "url": "https://heraldcollege.edu.np/about",
+        "text": "COLLEGE OVERVIEW",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "",
+        "context": "",
+        "similarity_score": 0.4168076813220978
+      },
+      {
+        "url": "https://heraldcollege.edu.np/make-learning-fun-with-projects",
+        "text": "LEARN MORE",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "Make Learning\nFun with Projects",
+        "context": "Make Learning\nFun with Projects\n\nStudents can practically demonstrate the skills learnt through concepts and case studies. They learn to research and analyse various real-time issues of industry and innovatively develop their own insights and solutions via assignments.\n\nLEARN MORE",
+        "similarity_score": 0.39434921741485596
+      },
+      {
+        "url": "https://heraldcollege.edu.np/about",
+        "text": "About Herald College Kathmandu",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "ABOUT",
+        "context": "About Herald College Kathmandu",
+        "similarity_score": 0.3886253535747528
+      }
+    ],
+    "cache_location": "scraper_cache",
+    "similarity_threshold": 0.25,
+    "max_results": 5
+  },
+  {
+    "prompt": "tell me about admission in https://heraldcollege.edu.np/",
+    "intent": "about admission",
+    "website": "https://heraldcollege.edu.np",
+    "scraped_at": "2025-11-01T17:08:04.278547",
+    "total_links": 47,
+    "matched_links": [
+      {
+        "url": "https://heraldcollege.edu.np/apply-now",
+        "text": "ADMISSION",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "",
+        "context": "ADMISSION",
+        "similarity_score": 0.6628662943840027
+      },
+      {
+        "url": "https://heraldcollege.edu.np/apply-now",
+        "text": "Application Form",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "ADMISSION",
+        "context": "Application Form",
+        "similarity_score": 0.6003559231758118
+      },
+      {
+        "url": "https://heraldcollege.edu.np/international-master-of-business-administration",
+        "text": "International Master Of\n\nBusiness\nAdministration\n\nAPPLY NOW",
+        "title": "",
+        "ariaLabel": "4 / 4",
+        "heading": "",
+        "context": "Bachelors In\n\nInformation\nTechnology\n\nAPPLY NOW\nBachelors In\n\nCyber\nSecurity\n\nAPPLY NOW\nBachelors In\n\nInternational\nBusiness\nManagement\n\nAPPLY NOW\nInternational Master Of\n\nBusiness\nAdministration\n\nAPPLY NOW",
+        "similarity_score": 0.4843214452266693
+      },
+      {
+        "url": "https://heraldcollege.edu.np/scholarship",
+        "text": "Scholarship Opportunity",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "ABOUT DEGREE",
+        "context": "Scholarship Opportunity",
+        "similarity_score": 0.4516826272010803
+      },
+      {
+        "url": "https://heraldcollege.edu.np/about",
+        "text": "COLLEGE OVERVIEW",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "",
+        "context": "",
+        "similarity_score": 0.4448154866695404
+      }
+    ],
+    "cache_location": "scraper_cache",
+    "similarity_threshold": 0.25,
+    "max_results": 5
   }
 ]
