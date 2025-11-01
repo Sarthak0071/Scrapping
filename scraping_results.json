@@ -87,5 +87,99 @@
     ],
     "cache_location": "scraper_cache",
     "similarity_threshold": 0.15
+  },
+  {
+    "error": "Could not parse intent or website",
+    "prompt": "find job from nabil bank"
+  },
+  {
+    "prompt": "find job in nabilbank.com",
+    "intent": "job",
+    "website": "https://nabilbank.com",
+    "scraped_at": "2025-11-01T15:54:07.225061",
+    "total_links": 123,
+    "matched_links": [
+      {
+        "url": "https://nabilbank.com/career",
+        "text": "Career",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "Important Links",
+        "context": "Career",
+        "similarity_score": 0.3029939532279968
+      },
+      {
+        "url": "https://nabilbank.com/management-team",
+        "text": "Management Team",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "About Us",
+        "context": "Management Team",
+        "similarity_score": 0.2536138594150543
+      }
+    ],
+    "cache_location": "scraper_cache",
+    "similarity_threshold": 0.25,
+    "max_results": 5
+  },
+  {
+    "prompt": "is there any job opportunity at nabilbank.com",
+    "intent": "is there any job opportunity",
+    "website": "https://nabilbank.com",
+    "scraped_at": "2025-11-01T15:55:30.510562",
+    "total_links": 123,
+    "matched_links": [
+      {
+        "url": "https://nabilbank.com/career",
+        "text": "Career",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "Important Links",
+        "context": "Career",
+        "similarity_score": 0.30273136496543884
+      }
+    ],
+    "cache_location": "scraper_cache",
+    "similarity_threshold": 0.25,
+    "max_results": 5
+  },
+  {
+    "prompt": "tell me about learning and development at nabilbank.com",
+    "intent": "about learning and development",
+    "website": "https://nabilbank.com",
+    "scraped_at": "2025-11-01T15:56:18.710554",
+    "total_links": 123,
+    "matched_links": [
+      {
+        "url": "https://nabilbank.com/important-links/learning-and-developments",
+        "text": "Learning and Development",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "Important Links",
+        "context": "Learning and Development",
+        "similarity_score": 0.707442581653595
+      },
+      {
+        "url": "https://nabilbank.com/about-us/introduction",
+        "text": "Introduction",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "About Us",
+        "context": "Introduction",
+        "similarity_score": 0.30647629499435425
+      },
+      {
+        "url": "https://nabilbank.com/corporate-social-responsibility/nabil-school-of-social-entrepreneurship",
+        "text": "NABIL School of Social Entrepreneurship",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "Corporate Social Responsibility",
+        "context": "NABIL School of Social Entrepreneurship",
+        "similarity_score": 0.2511509954929352
+      }
+    ],
+    "cache_location": "scraper_cache",
+    "similarity_threshold": 0.25,
+    "max_results": 5
   }
 ]

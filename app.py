@@ -149,7 +149,7 @@ class IntelligentWebScraper:
         
         return results
     
-    async def scrape(self, prompt, use_cache=True, min_similarity=0.3):
+    async def scrape(self, prompt, use_cache=True, min_similarity=0.25, max_results=5):
         intent, website = self.parse_prompt(prompt)
         if not intent or not website:
             return {'error': 'Could not parse intent or website', 'prompt': prompt}
@@ -161,12 +161,17 @@ class IntelligentWebScraper:
             return {'error': 'No links found', 'website': website}
         
         matched = self.compute_similarity(intent, links)
+        
+        # Filter by similarity threshold
         filtered = [l for l in matched if l['similarity_score'] >= min_similarity]
+        
+        # CRITICAL: Limit to top N results to avoid getting too many links
+        filtered = filtered[:max_results]
         
         return {
             'prompt': prompt, 'intent': intent, 'website': website, 'scraped_at': datetime.now().isoformat(),
             'total_links': len(links), 'matched_links': filtered, 'cache_location': self.cache_dir,
-            'similarity_threshold': min_similarity
+            'similarity_threshold': min_similarity, 'max_results': max_results
         }
     
     def print_results(self, results):
@@ -191,7 +196,7 @@ class IntelligentWebScraper:
         
         print(f"Matched: {len(filtered)}\n")
         
-        for i, link in enumerate(filtered[:10], 1):
+        for i, link in enumerate(filtered, 1):
             print(f"{i}. [{link['similarity_score']:.3f}] {link['text'][:80]}")
             print(f"   {link['url']}\n")
     
@@ -223,7 +228,7 @@ async def main():
     user_prompt = input("Prompt: ").strip()
     
     if user_prompt:
-        results = await scraper.scrape(user_prompt, use_cache=True, min_similarity=0.15)
+        results = await scraper.scrape(user_prompt, use_cache=True, min_similarity=0.25, max_results=5)
         scraper.print_results(results)
         scraper.save_results(results)
     else:
