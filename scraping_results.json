@@ -1,6 +1,120 @@
 [
   {
-    "error": "Failed to fetch website",
-    "website": "https://nmbbank.com.np"
+    "prompt": "find career from nabilbank.com",
+    "intent": "career",
+    "website": "https://nabilbank.com",
+    "scraped_at": "2025-11-01T14:09:45.785699",
+    "total_links": 123,
+    "matched_links": [
+      {
+        "url": "https://nabilbank.com/career",
+        "text": "Career",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "Important Links",
+        "context": "Career",
+        "similarity_score": 0.5229198932647705
+      },
+      {
+        "url": "https://nabilbank.com/management-team",
+        "text": "Management Team",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "About Us",
+        "context": "Management Team",
+        "similarity_score": 0.2964740991592407
+      }
+    ],
+    "cache_location": "scraper_cache",
+    "similarity_threshold": 0.25
+  },
+  {
+    "prompt": "find learning and development from nabilbank.com",
+    "intent": "learning and development",
+    "website": "https://nabilbank.com",
+    "scraped_at": "2025-11-01T14:11:01.811388",
+    "total_links": 123,
+    "matched_links": [
+      {
+        "url": "https://nabilbank.com/important-links/learning-and-developments",
+        "text": "Learning and Development",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "Important Links",
+        "context": "Learning and Development",
+        "similarity_score": 0.6428139209747314
+      },
+      {
+        "url": "https://nabilbank.com/about-us/introduction",
+        "text": "Introduction",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "About Us",
+        "context": "Introduction",
+        "similarity_score": 0.2661460041999817
+      }
+    ],
+    "cache_location": "scraper_cache",
+    "similarity_threshold": 0.25
+  },
+  {
+    "prompt": "find hiring from golcha.com",
+    "intent": "hiring",
+    "website": "https://golcha.com",
+    "scraped_at": "2025-11-01T14:12:06.981244",
+    "total_links": 52,
+    "matched_links": [
+      {
+        "url": "https://golcha.com/careers.aspx",
+        "text": "Careers",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "",
+        "context": "Sitemap| Careers| Disclaimer| Privacy Policy",
+        "similarity_score": 0.4527250826358795
+      }
+    ],
+    "cache_location": "scraper_cache",
+    "similarity_threshold": 0.25
+  },
+  {
+    "prompt": "find hiring from accessworld.net",
+    "intent": "hiring",
+    "website": "https://accessworld.net",
+    "scraped_at": "2025-11-01T14:12:57.687079",
+    "total_links": 73,
+    "matched_links": [
+      {
+        "url": "https://accessworld.net/page/career",
+        "text": "Career",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "",
+        "context": "\n                                                Career\n                                            ",
+        "similarity_score": 0.452555775642395
+      }
+    ],
+    "cache_location": "scraper_cache",
+    "similarity_threshold": 0.25
+  },
+  {
+    "prompt": "find Offers from nabilbank.com",
+    "intent": "offers",
+    "website": "https://nabilbank.com",
+    "scraped_at": "2025-11-01T14:16:01.572137",
+    "total_links": 123,
+    "matched_links": [
+      {
+        "url": "https://nabilbank.com/offers",
+        "text": "Offers",
+        "title": "",
+        "ariaLabel": "",
+        "heading": "Important Links",
+        "context": "Offers",
+        "similarity_score": 0.28611791133880615
+      }
+    ],
+    "cache_location": "scraper_cache",
+    "similarity_threshold": 0.25
   }
 ]

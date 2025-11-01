@@ -209,7 +209,7 @@ async def main():
         scraper.print_results(results)
         scraper.save_results(results)
         
-        print("\nThis scraper extracts your intent from natural language, fetches the website using Playwright for dynamic content, caches pages locally, and uses AI embeddings to find links semantically similar to what you're looking for. Results are appended to a JSON file with timestamps for history tracking.")
+        # print("\nThis scraper extracts your intent from natural language, fetches the website using Playwright for dynamic content, caches pages locally, and uses AI embeddings to find links semantically similar to what you're looking for. Results are appended to a JSON file with timestamps for history tracking.")
     else:
         print("No prompt provided.")
 

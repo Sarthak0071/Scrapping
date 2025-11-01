@@ -1,0 +1,423 @@
+{
+  "url": "https://golcha.com/",
+  "scraped_at": "2025-11-01T14:12:06.540181",
+  "html": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n  <meta name=\"robots\" content=\"index,follow\">\n<title>Golcha Talc, Leading Industrial Minerals Manufacturer in India, Golcha Associated Soapstone Producer/manufacturer, Industrial Minerals, White Minerals,Golcha talc mining</title>\n<meta name=\"description\" content=\"Golcha Associated is India's leading talc and clay manufacturer and exporter. We offer high-quality soapstone products for paints, cosmetics, paper, plastics, ceramics, and more.\">\n<meta name=\"keywords\" content=\"Golcha Associated talc, Industrial minerals manufacturer India, Associated Soapstone, clay manufacturer, talc for paints, sustainable talc mining,  talc for plastics, talc of industrial application\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/images/favicon.ico\">\n<link rel=\"stylesheet\" href=\"css/superfish.css\" media=\"screen\">\n <link rel=\"stylesheet\" href=\"css/animate.css\">\n <link type=\"text/css\" rel=\"stylesheet\" href=\"css/rcarousel.css\">\n\t\t<script type=\"text/javascript\" src=\"js/jquery-1.7.1.js\"></script>\n\t\t<script src=\"js/hoverIntent.js\"></script>\n\t\t<script src=\"js/superfish.js\"></script>\n        \n           \n\n \n\n\t\t<script>\n\n\t\t(function($){ //create closure so we can safely use $ as alias for jQuery\n\n\t\t\t$(document).ready(function(){\n\n\t\t\t\t// initialise plugin\n\t\t\t\tvar example = $('#example').superfish({\n\t\t\t\t\t//add options here if required\n\t\t\t\t});\n\n\t\t\t\t// buttons to demonstrate Superfish's public methods\n\t\t\t\t$('.destroy').on('click', function(){\n\t\t\t\t\texample.superfish('destroy');\n\t\t\t\t});\n\n\t\t\t\t$('.init').on('click', function(){\n\t\t\t\t\texample.superfish();\n\t\t\t\t});\n\n\t\t\t\t$('.open').on('click', function(){\n\t\t\t\t\texample.children('li:first').superfish('show');\n\t\t\t\t});\n\n\t\t\t\t$('.close').on('click', function(){\n\t\t\t\t\texample.children('li:first').superfish('hide');\n\t\t\t\t});\n\t\t\t});\n\n\t\t})(jQuery);\n\n\n\t\t</script>\n     <link rel=\"stylesheet\" href=\"css/responsiveslides.css\">\n     <script src=\"js/responsiveslides.js\"></script>\n  <script>\n    // You can also use \"$(window).load(function() {\"\n    $(function () {\n\n     // Slideshow 2\n      $(\"#slider2\").responsiveSlides({\n        auto: true,\n        pager: true,\n        speed: 600,\n        maxwidth: 962\n      });\n\t});\n  </script>    \n  <script type=\"text/javascript\" src=\"js/highlight-menu.js\"></script>\n    <link rel=\"stylesheet\" href=\"css/prettyPhoto.css\" type=\"text/css\" media=\"screen\" charset=\"utf-8\">\n\t\t<script src=\"js/jquery.prettyPhoto.js\" type=\"text/javascript\" charset=\"utf-8\"></script>\n<link href=\"css/style.css\" rel=\"stylesheet\" type=\"text/css\">\n</head>\n\n<body onload=\"myfunction();\">\n<!--js/google.js-->\n<div class=\"container\">\n<div class=\"page wow fadeInDown animated\" data-wow-delay=\"400ms\"><!-- #BeginLibraryItem \"/lbi/header.lbi\" --><div class=\"header\">\n\t<div class=\"logo left\"><a href=\"index.html\"><img src=\"images/logo.png\" width=\"215\" height=\"40\"></a></div>\n    <div class=\"nav left\">\n   <!-- <div class=\"sosial\"><a href=\"#\" target=\"_blank\"><img src=\"../images/in.png\" width=\"20\" height=\"20\" /></a>\n    <a href=\"#\" target=\"_blank\"><img src=\"../images/fb.png\" width=\"20\" height=\"20\" /></a></div>-->\n    <ul class=\"sf-menu sf-js-enabled sf-arrows\" id=\"example\" style=\"touch-action: pan-y;\">\n\t\t\t<li><a href=\"index.html\">Home</a></li>\t\n            <li class=\"current\"><a href=\"#\" class=\"sf-with-ul\">About Us</a>\n\t\t\t\t<ul style=\"display: none;\">\n\t\t\t\t\t<li><a href=\"overview.html\">Overview</a></li>\n\t\t\t\t\t<!--<li><a href=\"the-group.html\">The Group</a></li>\n\t\t\t\t\t<li><a href=\"vision.html\">Vision Statement</a></li>\n                    <li><a href=\"mission.html\">Mission Statement</a></li>-->\n                    <li><a href=\"csr.html\">CSR</a></li>\n                    <li><a href=\"environmental-protection.html\">Environmental Protection</a></li>\n\t\t\t\t\t<li><a href=\"awards-certifications.html\">Awards &amp; Certifications</a></li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li class=\"current\"><a href=\"#\" class=\"sf-with-ul\">Products</a>\n            <ul style=\"width: 244px; background-color: rgb(231, 234, 241) !important; display: none;\">\n                \n                <li style=\"padding-left:10px;background-color:#E7EAF1;padding-top:10px;padding-bottom:10px;\">\n                \n                <a href=\"talc.html\" style=\"padding:0px;margin:0px;\">\n                <div class=\"main-img-div main-img-div-space\">\n               \t\t<img src=\"images/nav/p-1.png\" width=\"80\" height=\"53\">\n                \t<div class=\"text-nav\"><br>Talc</div>\n                \t<div class=\"clear\"></div>\t\n               </div>\n               </a>\n               \n              \t<a href=\"clay.html\" style=\"padding:0px;margin:0px;\">\n              \t<div class=\"main-img-div main-img-div-space\">\n               \t\t<img src=\"images/nav/p-2.png\" width=\"80\" height=\"53\">\n                \t\t<div class=\"text-nav\"><br>Clay</div>\n                <div class=\"clear\"></div>\t\n               \t</div>\n              \t</a>\n\t\t\t\t\n                \n                \n               <!--<!-- <a href=\"../other-minerals.html\" style=\"padding:0px;margin:0px;\">\n                <div class=\"main-img-div main-img-div-space\">\n               \t\t<img src=\"../images/nav/p-3.png\" width=\"80\" height=\"53\">\n                \t<div class=\"text-nav\">Other <br />Minerals</div>\n                \t<div class=\"clear\"></div>\t\n               </div>\n               </a>-->\n               \n              \t\n                \n                \n                \n                <div class=\"clear\"></div>\n                \n                \n</li>\n\n                \n\t\t\t\t\n               </ul>\n            </li>\n            \n            <li class=\"current\"><a href=\"#\" class=\"sf-with-ul\">Application</a>\n                \n\t\t\t\t<ul style=\"width: 962px; left: -482px; background-color: rgb(231, 234, 241) !important; display: none;\">\n                \n                <li style=\"padding-left:10px;background-color:#E7EAF1;padding-top:10px;padding-bottom:10px;\">\n                \n\t\t\t\t<!--1-->\n                <a href=\"paints-coatings.html\" style=\"padding:0px;margin:0px;\">\n                <div class=\"main-img-div main-img-div-space\">\n               \t\t<img src=\"images/nav/a-5.jpg\" width=\"80\" height=\"53\">\n                \t<div class=\"text-nav\">Paints &amp; <br>Coatings</div>\n                \t<div class=\"clear\"></div>\t\n                </div>\n                </a>\n                \n                <a href=\"plastics.html\" style=\"padding:0px;margin:0px;\">\n                <div class=\"main-img-div main-img-div-space\">\n               \t\t<img src=\"images/nav/a-3.jpg\" width=\"80\" height=\"53\">\n                \t<div class=\"text-nav\"><br>Plastics</div>\n                \t<div class=\"clear\"></div>\t\n               \t</div>\n               \t</a>\n              \t\n\t\t\t\t\n                <a href=\"polyester-putties.html\" style=\"padding:0px;margin:0px;\">\n                <div class=\"main-img-div main-img-div-space\">\n               \t\t<img src=\"images/nav/a-7.jpg\" width=\"80\" height=\"53\">\n                \t<div class=\"text-nav\">Polyester <br>Putties</div>\n                \t<div class=\"clear\"></div>\t\n                </div>\n                </a>\n               \n              \t<a href=\"cosmetic.html\" style=\"padding:0px;margin:0px;\">\n                <div class=\"main-img-div\">\n               \t\t<img src=\"images/nav/a-13.jpg\" width=\"80\" height=\"53\">\n                \t<div class=\"text-nav\"><br>Cosmetic</div>\n                \t<div class=\"clear\"></div>\t\n               \t</div>\n               \t</a>\n               <div class=\"clear\"></div>\n               \n              \t<a href=\"soap-detergent.html\" style=\"padding:0px;margin:0px;\">\n              \t<div class=\"main-img-div main-img-div-space\">\n               \t\t<img src=\"images/nav/a-14.jpg\" width=\"80\" height=\"53\">\n                \t\t<div class=\"text-nav\">Soap &amp; <br>Detergent</div>\n                <div class=\"clear\"></div>\t\n               \t</div>\n              \t</a>\n                \n                <a href=\"rubber.html\" style=\"padding:0px;margin:0px;\">\n              \t<div class=\"main-img-div main-img-div-space\">\n               \t\t<img src=\"images/nav/a-4.jpg\" width=\"80\" height=\"53\">\n                \t\t<div class=\"text-nav\"><br>Rubber</div>\n                <div class=\"clear\"></div>\t\n               \t</div>\n              \t</a>\n                \n                <a href=\"agrochemicals.html\" style=\"padding:0px;margin:0px;\">\n              \t<div class=\"main-img-div main-img-div-space\">\n               \t\t<img src=\"images/nav/a-11.jpg\" width=\"80\" height=\"53\">\n                \t\t<div class=\"text-nav\"><br>Agrochemicals</div>\n                <div class=\"clear\"></div>\t\n               \t</div>\n              \t</a>\n                \n                <a href=\"animal-feed.html\" style=\"padding:0px;margin:0px;\">\n              \t<div class=\"main-img-div\">\n               \t\t<img src=\"images/nav/a-8.jpg\" width=\"80\" height=\"53\">\n                \t\t<div class=\"text-nav\">Animal <br>Feed</div>\n                <div class=\"clear\"></div>\t\n               \t</div>\n              \t</a>\n                <div class=\"clear\"></div>\n                \n                <a href=\"ink-pigment.html\" style=\"padding:0px;margin:0px;\">\n              \t<div class=\"main-img-div main-img-div-space\">\n               \t\t<img src=\"images/nav/a-10.jpg\" width=\"80\" height=\"53\">\n                \t\t<div class=\"text-nav\">Ink &amp; <br>Pigment</div>\n                <div class=\"clear\"></div>\t\n               \t</div>\n              \t</a>\n                \n                <a href=\"paper.html\" style=\"padding:0px;margin:0px;\">\n              \t<div class=\"main-img-div main-img-div-space\">\n               \t\t<img src=\"images/nav/a-6.jpg\" width=\"80\" height=\"53\">\n                \t\t<div class=\"text-nav\"><br>Paper</div>\n                <div class=\"clear\"></div>\t\n               \t</div>\n              \t</a>\n                \n                <a href=\"ceramics.html\" style=\"padding:0px;margin:0px;\">\n                <div class=\"main-img-div main-img-div-space\">\n               \t\t<img src=\"images/nav/a-9.jpg\" width=\"80\" height=\"53\">\n                \t<div class=\"text-nav\">Ceramics &amp; <br>Engineered Stones</div>\n                \t<div class=\"clear\"></div>\t\n                </div>\n                </a>\n                \n                <!--<a href=\"../sculpture.html\" style=\"padding:0px;margin:0px;\">\n              \t<div class=\"main-img-div\">\n               \t\t<img src=\"../images/nav/a-12.jpg\" width=\"80\" height=\"53\">\n                \t\t<div class=\"text-nav\"><br />Sculpture</div>\n                <div class=\"clear\"></div>\t\n               \t</div>\n              \t</a>-->\n                \n                \n               \n                \n                <a href=\"insulators.html\" style=\"padding:0px;margin:0px;\">\n                <div class=\"main-img-div\">\n               \t\t<img src=\"images/nav/a-1.jpg\" width=\"80\" height=\"53\">\n                \t<div class=\"text-nav\"><br>Insulator</div>\n                \t<div class=\"clear\"></div>\t\n               </div>\n               </a>\n                <div class=\"clear\"></div>\n              \t<a href=\"refractories.html\" style=\"padding:0px;margin:0px;\">\n              \t<div class=\"main-img-div main-img-div-space\">\n               \t\t<img src=\"images/nav/a-2.jpg\" width=\"80\" height=\"53\">\n                \t\t<div class=\"text-nav\"><br>Refractory</div>\n                <div class=\"clear\"></div>\t\n               \t</div>\n              \t</a>\n                \n                \n                <div class=\"clear\"></div>\n     \n</li>\n\t</ul>\n\t\t\t</li>\n            \n            \n\t\t\t<!--<li><a href=\"#\">Application</a>\n\t\t\t\t<ul>\n\t\t\t\t\t<li><a href=\"#\">menu item</a></li>\n\t\t\t\t\t<li><a href=\"#\">menu item</a></li>\n\t\t\t\t\t<li><a href=\"#\">menu item</a></li>\n\t\t\t\t\t<li><a href=\"#\">menu item</a></li>\n\t\t\t\t\t<li><a href=\"#\">menu item</a></li>\n\t\t\t\t</ul>\n\t\t\t</li>-->\n            <li><a href=\"#\" class=\"sf-with-ul\">Process</a>\n\t\t\t\t<ul style=\"display: none;\">\n\t\t\t\t\t<li><a href=\"mining.html\">Mining</a></li>\n\t\t\t\t\t<li><a href=\"grinding-packing.html\">Grinding &amp; Packing</a></li>\n\t\t\t\t\t<li><a href=\"quality-control.html\">Quality Control</a></li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li><a href=\"r-and-d.html\">R &amp; D</a></li>\n            \n           <li><a href=\"enquiry.aspx\">Enquiry</a></li>\n           <li><a href=\"reach-us.html\" class=\"no-border\">Reach Us</a></li>\n           \n           <!-- <li><a href=\"../reach-us.html\" class=\"no-border\">Reach Us</a>\n            <ul>\n\t\t\t\t<li><a href=\"../enquiry.html\">Enquiry</a></li>\n\t\t\t</ul>\n            </li>-->\n            \n            \n\t\t</ul>\n\t\t</div>\n      <!--  <div class=\"d-n-b right\"><img src=\"../images/d-n-b.png\" width=\"110\" height=\"72\"></div>-->\n    <div class=\"clear\"></div>\n</div><!-- #EndLibraryItem --><!--home-slider-->\n<div class=\"home-slider\">\n\t<div class=\"top-shadow\"></div>\n    \n    <div style=\"position:relative;height:378px;width:962px;overflow:hidden;\">\n    <ul class=\"rslides rslides1\" id=\"slider2\" style=\"max-width: 962px;\">\n      <li id=\"rslides1_s0\" class=\"\" style=\"display: block; float: none; position: absolute; opacity: 0; z-index: 1; transition: opacity 600ms ease-in-out 0s;\"><a href=\"#\"><img src=\"images/slide-1.jpg\" alt=\"\"></a></li>\n      <li id=\"rslides1_s1\" class=\"\" style=\"float: none; position: absolute; opacity: 0; z-index: 1; display: list-item; transition: opacity 600ms ease-in-out 0s;\"><a href=\"#\"><img src=\"images/slide-2.jpg\" alt=\"\"></a></li>\n      <li id=\"rslides1_s2\" class=\"rslides1_on\" style=\"float: left; position: relative; opacity: 1; z-index: 2; display: list-item; transition: opacity 600ms ease-in-out 0s;\"><a href=\"#\"><img src=\"images/slide-3.jpg\" alt=\"\"></a></li>\n    </ul><ul class=\"rslides_tabs rslides1_tabs\"><li class=\"rslides1_s1\"><a href=\"#\" class=\"rslides1_s1\">1</a></li><li class=\"rslides1_s2\"><a href=\"#\" class=\"rslides1_s2\">2</a></li><li class=\"rslides1_s3 rslides_here\"><a href=\"#\" class=\"rslides1_s3\">3</a></li></ul>\n\t</div>\n    \n  \n    \n\t<div class=\"bottom-shadow\"></div>\n</div>\n<div class=\"clear\"></div>\n<!--home-slider-->\n<!--home-txt-->\n<div class=\"home-txt wow fadeInDown animated\" data-wow-delay=\"400ms\">\n<div class=\"home-title\">WELCOME TO GOLCHA ASSOCIATED</div>\n<p>A 130-year old history of mining has distinguished Golcha Associated as one of India’s topmost producers of Talc. Our commitment to quality combined with our drive to perform, helps us deliver perfect solutions to clients across industries and applications worldwide.<br>\n<br>\nEnter the world of purity, integrity and quality.</p>\n</div>\n\n\n\n\n</div>\n<!--home-txt-->\n<div class=\"home-product-slider wow fadeInDown animated\" data-wow-delay=\"400ms\">\n\t<div class=\"page\"><span class=\"title-application\">APPLICATION</span></div>\n\n<div class=\"home-product-slider-outer\">\n\n<div id=\"container\">\n\t\t\t\t<div id=\"carousel\" class=\"ui-carousel\" style=\"width: 972px; overflow: hidden; height: 150px;\">\n\t\t\t\t\t\n                    \n                   \n                  <div class=\"wrapper\"><div style=\"width: 152px; height: 150px; margin-right: 12px;\"><a href=\"soap-detergent.html\" class=\"application-link\"><img src=\"images/application/a-14.jpg\">Soap &amp; Detergent</a></div><div style=\"width: 152px; height: 150px; margin-right: 12px;\"><a href=\"rubber.html\" class=\"application-link\"><img src=\"images/application/a-4.jpg\">Rubber</a></div><div style=\"width: 152px; height: 150px; margin-right: 12px;\"><a href=\"agrochemicals.html\" class=\"application-link\"><img src=\"images/application/a-11.jpg\">Agrochemicals</a></div><div style=\"width: 152px; height: 150px; margin-right: 12px;\"><a href=\"animal-feed.html\" class=\"application-link\"><img src=\"images/application/a-8.jpg\">Animal Feed</a></div><div style=\"width: 152px; height: 150px; margin-right: 12px;\"><a href=\"ink-pigment.html\" class=\"application-link\"><img src=\"images/application/a-10.jpg\">Ink &amp; Pigment</a></div><div style=\"width: 152px; height: 150px; margin-right: 12px;\"><a href=\"paper.html\" class=\"application-link\"><img src=\"images/application/a-6.jpg\">Paper</a></div></div>\n                   \n                   \n                   \n                   \n                   \n                   \n                   \n                   \n                   \n                   \n                   <!--<div><a href=\"sculpture.html\" class=\"application-link\"><img src=\"images/application/a-12.jpg\" />Sculpture</a></div>-->\n                   \n                   \n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t<a href=\"#\" id=\"ui-carousel-next\"><span>next</span></a>\n\t\t\t\t<a href=\"#\" id=\"ui-carousel-prev\"><span>prev</span></a>\n\t\t\t</div>\n\n\n</div>    \n</div>\n\n\n<div class=\"page home-bottom wow fadeInDown animated\" data-wow-delay=\"400ms\">\n\t<div class=\"home-product-box left brd-right right-padding-16px\">\n   \t<div class=\"product-title\">TALC</div>\n    <img src=\"images/home-talc.png\" width=\"260\" height=\"106\">\n    <div class=\"home-product-txt\">Golcha Associated is Asia's leading producer of Talc-based specialty solutions and operate India’s single largest opencast talc mine, mining the highest quality of mineral in the world.</div>\n    <div class=\"home-product-link\"><a href=\"talc.html\">More <span class=\"red\">→</span></a></div>\n    </div>\n    \n    <div class=\"home-product-box left brd-right left-padding-16px right-padding-16px margin-right-62px\">\n   \t<div class=\"product-title\">CLAY</div>\n    <img src=\"images/home-clay.png\" width=\"260\" height=\"106\">\n    <div class=\"home-product-txt\">Our mining excellence combined with high quality clay and technical know-how has led us to become an emerging leader and Asia’s most preferred suppliers in the Ball Clay market.</div>\n    <div class=\"home-product-link\"><a href=\"clay.html\">More <span class=\"red\">→</span></a></div>\n    </div>\n    \n    <!--<div class=\"home-product-box left left-padding-16px margin-right-62px\">\n   \t<div class=\"product-title\">OTHER MINERALS</div>\n    <img src=\"images/home-minerals.png\" width=\"180\" height=\"106\" />\n    <div class=\"home-product-txt\">Lorem ipsum dolor sit amet, consectetur lite adipiscing elit. Praesent vitae urna ligula. ipsum dolor sitamet, consectetur lite ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>\n    <div class=\"home-product-link\"><a href=\"other-minerals.html\">More <span class=\"red\">→</span></a></div>\n    </div>-->\n    \n    <div class=\"home-news left\">\n    <div class=\"product-title\">UNPARALLELED REACH </div>\n    <div class=\"home-news-content gallery clearfix\" style=\"height:200px;\">\n    <a href=\"images/map-z.jpg\" title=\"UNPARALLELED REACH\" rel=\"prettyPhoto[zoom1]\"><img src=\"images/map.png\"></a> </div>\n    </div>\n    \n    \n    <div class=\"clear\"></div>\n</div>\n</div><!-- #BeginLibraryItem \"/lbi/footer.lbi\" --><div class=\"footer\">\n\t<div class=\"page\">\n    \t<div class=\"left\">Copyright © 2015 Associated Soapstone Distribution Company Pvt. Ltd. All Rights Reserved</div>\n        <div class=\"right\"><a href=\"sitemap.html\">Sitemap</a><span>|</span>\n<a href=\"careers.aspx\">Careers</a><span>|</span>\n<!--<a href=\"../downloads.html\">Downloads</a><span>|</span>-->\n<!--<a href=\"../media.html\">Media</a><span>|</span>-->\n<a href=\"disclaimer.html\">Disclaimer</a><span>|</span>\n<a href=\"privacy-policy.html\">Privacy Policy</a>\n</div>\n        <div class=\"clear\"></div>\n    </div>\n</div><!-- #EndLibraryItem --><script type=\"text/javascript\" src=\"js/jquery.ui.core.js\"></script>\n\t\t<script type=\"text/javascript\" src=\"js/jquery.ui.widget.js\"></script>\n\t\t<script type=\"text/javascript\" src=\"js/jquery.ui.rcarousel.js\"></script>\n\t\t<script type=\"text/javascript\">\n\t\t\tjQuery(function($) {\n\t\t\t\t$( \"#carousel\").rcarousel({\n\t\t\t\t\tspeed: 700,\n\t\t\t\t\tauto: {\n\t\t\t\t\t\t\tenabled: true\n\t\t\t\t\t\t},\n\t\t\t\t\tmargin: 12\n\t\t\t\t});\n\t\t\t\t\n\t\t\t\t$( \"#ui-carousel-next\" )\n\t\t\t\t\t.add( \"#ui-carousel-prev\" )\n\t\t\t\t\t.hover(\n\t\t\t\t\t\tfunction() {\n\t\t\t\t\t\t\t$( this ).css( \"opacity\", 0.7 );\n\t\t\t\t\t\t},\n\t\t\t\t\t\tfunction() {\n\t\t\t\t\t\t\t$( this ).css( \"opacity\", 1.0 );\n\t\t\t\t\t\t}\n\t\t\t\t\t);\t\t\t\t\t\n\t\t\t});\n\t\t</script>\n        \n        <script src=\"js/wow.js\"></script>\n  <script>\n    wow = new WOW(\n      {\n        animateClass: 'animated',\n        offset:       100,\n        callback:     function(box) {\n          console.log(\"WOW: animating <\" + box.tagName.toLowerCase() + \">\")\n        }\n      }\n    );\n    wow.init();\n    document.getElementById('moar').onclick = function() {\n      var section = document.createElement('section');\n      section.className = 'section--purple wow fadeInDown';\n      this.parentNode.insertBefore(section, this);\n    };\n  </script>\n       \n         <script type=\"text/javascript\" charset=\"utf-8\">\n\t\t\t$(document).ready(function(){\n\t\t\t\t$(\"area[rel^='prettyPhoto']\").prettyPhoto();\n\t\t\t\t\n\t\t\t\t$(\".gallery:first a[rel^='prettyPhoto']\").prettyPhoto({animation_speed:'normal',theme:'pp_default',social_tools: false,slideshow:3000, autoplay_slideshow: false});\n\t\t\t\t$(\".gallery:gt(0) a[rel^='prettyPhoto']\").prettyPhoto({animation_speed:'fast',slideshow:10000, hideflash: true});\n\t\t\n\t\t\t\t\n\t\t\t});\n\t\t\t</script>\n\n\n</body></html>",
+  "links": [
+    {
+      "url": "https://golcha.com/index.html",
+      "text": "",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": ""
+    },
+    {
+      "url": "https://golcha.com/index.html",
+      "text": "Home",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Home"
+    },
+    {
+      "url": "https://golcha.com/",
+      "text": "About Us",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "About Us"
+    },
+    {
+      "url": "https://golcha.com/overview.html",
+      "text": "Overview",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Overview"
+    },
+    {
+      "url": "https://golcha.com/csr.html",
+      "text": "CSR",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "CSR"
+    },
+    {
+      "url": "https://golcha.com/environmental-protection.html",
+      "text": "Environmental Protection",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Environmental Protection"
+    },
+    {
+      "url": "https://golcha.com/awards-certifications.html",
+      "text": "Awards & Certifications",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Awards & Certifications"
+    },
+    {
+      "url": "https://golcha.com/",
+      "text": "Products",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Products"
+    },
+    {
+      "url": "https://golcha.com/talc.html",
+      "text": "Talc",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Products"
+    },
+    {
+      "url": "https://golcha.com/clay.html",
+      "text": "Clay",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Products"
+    },
+    {
+      "url": "https://golcha.com/",
+      "text": "Application",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Application"
+    },
+    {
+      "url": "https://golcha.com/paints-coatings.html",
+      "text": "Paints & Coatings",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Application"
+    },
+    {
+      "url": "https://golcha.com/plastics.html",
+      "text": "Plastics",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Application"
+    },
+    {
+      "url": "https://golcha.com/polyester-putties.html",
+      "text": "Polyester Putties",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Application"
+    },
+    {
+      "url": "https://golcha.com/cosmetic.html",
+      "text": "Cosmetic",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Application"
+    },
+    {
+      "url": "https://golcha.com/soap-detergent.html",
+      "text": "Soap & Detergent",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Application"
+    },
+    {
+      "url": "https://golcha.com/rubber.html",
+      "text": "Rubber",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Application"
+    },
+    {
+      "url": "https://golcha.com/agrochemicals.html",
+      "text": "Agrochemicals",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Application"
+    },
+    {
+      "url": "https://golcha.com/animal-feed.html",
+      "text": "Animal Feed",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Application"
+    },
+    {
+      "url": "https://golcha.com/ink-pigment.html",
+      "text": "Ink & Pigment",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Application"
+    },
+    {
+      "url": "https://golcha.com/paper.html",
+      "text": "Paper",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Application"
+    },
+    {
+      "url": "https://golcha.com/ceramics.html",
+      "text": "Ceramics & Engineered Stones",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Application"
+    },
+    {
+      "url": "https://golcha.com/insulators.html",
+      "text": "Insulator",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Application"
+    },
+    {
+      "url": "https://golcha.com/refractories.html",
+      "text": "Refractory",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Application"
+    },
+    {
+      "url": "https://golcha.com/",
+      "text": "Process",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Process"
+    },
+    {
+      "url": "https://golcha.com/mining.html",
+      "text": "Mining",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Mining"
+    },
+    {
+      "url": "https://golcha.com/grinding-packing.html",
+      "text": "Grinding & Packing",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Grinding & Packing"
+    },
+    {
+      "url": "https://golcha.com/quality-control.html",
+      "text": "Quality Control",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Quality Control"
+    },
+    {
+      "url": "https://golcha.com/r-and-d.html",
+      "text": "R & D",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "R & D"
+    },
+    {
+      "url": "https://golcha.com/enquiry.aspx",
+      "text": "Enquiry",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Enquiry"
+    },
+    {
+      "url": "https://golcha.com/reach-us.html",
+      "text": "Reach Us",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Reach Us"
+    },
+    {
+      "url": "https://golcha.com/",
+      "text": "",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": ""
+    },
+    {
+      "url": "https://golcha.com/",
+      "text": "",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": ""
+    },
+    {
+      "url": "https://golcha.com/",
+      "text": "",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": ""
+    },
+    {
+      "url": "https://golcha.com/",
+      "text": "1",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "1"
+    },
+    {
+      "url": "https://golcha.com/",
+      "text": "2",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "2"
+    },
+    {
+      "url": "https://golcha.com/",
+      "text": "3",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "3"
+    },
+    {
+      "url": "https://golcha.com/soap-detergent.html",
+      "text": "Soap & Detergent",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Soap & Detergent"
+    },
+    {
+      "url": "https://golcha.com/rubber.html",
+      "text": "Rubber",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Rubber"
+    },
+    {
+      "url": "https://golcha.com/agrochemicals.html",
+      "text": "Agrochemicals",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Agrochemicals"
+    },
+    {
+      "url": "https://golcha.com/animal-feed.html",
+      "text": "Animal Feed",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Animal Feed"
+    },
+    {
+      "url": "https://golcha.com/ink-pigment.html",
+      "text": "Ink & Pigment",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Ink & Pigment"
+    },
+    {
+      "url": "https://golcha.com/paper.html",
+      "text": "Paper",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Paper"
+    },
+    {
+      "url": "https://golcha.com/",
+      "text": "",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Soap & Detergent\nRubber\nAgrochemicals\nAnimal Feed\nInk & Pigment\nPaper"
+    },
+    {
+      "url": "https://golcha.com/",
+      "text": "",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Soap & Detergent\nRubber\nAgrochemicals\nAnimal Feed\nInk & Pigment\nPaper"
+    },
+    {
+      "url": "https://golcha.com/talc.html",
+      "text": "More →",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "More →"
+    },
+    {
+      "url": "https://golcha.com/clay.html",
+      "text": "More →",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "More →"
+    },
+    {
+      "url": "https://golcha.com/images/map-z.jpg",
+      "text": "",
+      "title": "UNPARALLELED REACH",
+      "ariaLabel": "",
+      "heading": "",
+      "context": ""
+    },
+    {
+      "url": "https://golcha.com/sitemap.html",
+      "text": "Sitemap",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Sitemap| Careers| Disclaimer| Privacy Policy"
+    },
+    {
+      "url": "https://golcha.com/careers.aspx",
+      "text": "Careers",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Sitemap| Careers| Disclaimer| Privacy Policy"
+    },
+    {
+      "url": "https://golcha.com/disclaimer.html",
+      "text": "Disclaimer",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Sitemap| Careers| Disclaimer| Privacy Policy"
+    },
+    {
+      "url": "https://golcha.com/privacy-policy.html",
+      "text": "Privacy Policy",
+      "title": "",
+      "ariaLabel": "",
+      "heading": "",
+      "context": "Sitemap| Careers| Disclaimer| Privacy Policy"
+    }
+  ]
+}
